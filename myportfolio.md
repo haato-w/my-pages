@@ -1,4 +1,4 @@
-# Haato Watanabe
+# Haato Watanabe（渡辺 羽亜人）
 
 ## About
 所属：東京大学大学院 情報理工学系研究科 創造情報学専攻 梅谷研究室 修士　<br>
@@ -35,7 +35,7 @@
 <dl>
   <dt>株式会社Preferred Networks</dt>
   <dd>R&Dサマーインターン、パートタイムエンジニア</dd>
-  <dd>4D Gaussian splatting web viewerの開発をしました。<a href="https://tech.preferred.jp/ja/blog/4d-gaussian-splatting-web-viewer/" target="_blank">成果ブログ</a><dd>
+  <dd>4D Gaussian splatting web viewerの開発をしました。<a href="https://tech.preferred.jp/ja/blog/4d-gaussian-splatting-web-viewer/" target="_blank">成果ブログを公開しています。</a></dd>
 </dl>
 
 <dl>
@@ -99,6 +99,13 @@
   <dd>Meta Quest上でどうさする視線で英字キーボードを操作できるシステムです。</dd>
   <dd>視線でキーボードをなぞり、ジェスチャータイピングを行うことで英単語を入力できます。</dd>
   <dd>[実装を公開しています。](https://github.com/haato-w/VRKeyBoardUsingGestureTypingWithEyeTracking "github repository")</dd>
+</dl>
+
+<dl>
+  <dt>ナンバープレート認識システム</dt>
+  <dd>Edge AIコンピュータのJetson Nano上で動作する日本語ナンバープレート認識システムを開発しました。</dd>
+  <dd>研究開発案件で開発しました。</dd>
+  <dd></dd>
 </dl>
 
 ***
