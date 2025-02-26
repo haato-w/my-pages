@@ -60,7 +60,9 @@
 ## Works
 
 **Making Visual hull mesh from mask image and camera params**
-<video src="" controls="true" width="300"></video>
+
+<video src="https://github.com/user-attachments/assets/c5bd42dd-4f6a-47c8-a2f9-fd9c84778653" controls="true" loop autoplay width="300"></video>
+
 - 多視点画像データのカメラパラメータとマスク画像から対象物体のvisual hull meshを生成するコードを実装しました。
 - visual hullを作成するコードは存在していたのですが、使いにくかったのでシンプルな仕様で作り直しました。
 - 実装を公開しています。
