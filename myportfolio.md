@@ -58,10 +58,20 @@
 ***
 
 ## Works
+
+**Making Visual hull mesh from mask image and camera params**
+<video src="" controls="true" width="300"></video>
+- 多視点画像データのカメラパラメータとマスク画像から対象物体のvisual hull meshを生成するコードを実装しました。
+- visual hullを作成するコードは存在していたのですが、使いにくかったのでシンプルな仕様で作り直しました。
+- 実装を公開しています。
+
+**Nerf synthetic data creation code using Mitsuba renderer**
+- 画像を載せる
+
 <!-- <dl>
   <dt>Codes made in current project</dt>
-  <dd></dd>
-  <dd></dd>
+  <dd>マスク画像からvisual hullを作成するコード</dd>
+  <dd>mitsubaでnerfデータを作るコード（yuksel dataset）</dd>
 </dl> -->
 
 **Stable fluids implementation**
@@ -71,12 +81,11 @@
 
 - 流体シミュレーションの1種であるStable fluidsをCで実装しました。OpenMPを用いてSIMD並列化とスレッド並列化を行いました。
 - 元々流体シミューレーションに興味があったのでキャッチアップの最初のステップとして丁度良いと思い始めました。
+- 書籍「GPU Gems」の38章「GPU上での高速な流体力学シミュレーション」が分かりやすかったです。
 
-<!-- <dl>
-  <dt>3D Gabor Splatting</dt>
-  <dd></dd>
-  <dd></dd>
-</dl> -->
+
+<!-- **3D Gabor Splatting** -->
+
 
 **4D Gaussian Splatting Web Viewer**
 
@@ -87,10 +96,12 @@
 - WebGLとReactで開発を行いました。シェーダーでのレンダリング処理やカメラ操作、視点変更UIのための衝突判定処理等を実装しました。
 - ウェブブラウザという限られた環境の中で様々な処理を行う必要があるため、処理の効率化やスレッド並列化を特に工夫しました。
 - サマーインターンにおける開発成果は[テックブログ](https://tech.preferred.jp/ja/blog/4d-gaussian-splatting-web-viewer/ "PFN Tech Blog")として公開しています。
+- 時間周りは書籍「ゲームエンジン・アーキテクチャ」の7.4, 7.5章の時間の扱いが参考になりました。
 
 **C Standard Library reimplementation**
 - 低レイヤのコードに慣れようと思い、C標準ライブラリを再実装しました。
 - 実装難易度は全く高くないですが、自分で書くと細かい仕様を学べるので楽しかったです。
+- [実装を公開しています。](https://github.com/haato-w/my-c-standard-library "github repository")
 
 **視線によるキーボード入力アプリ**
 - Meta Quest上でどうさする視線で英字キーボードを操作できるシステムです。
@@ -104,11 +115,16 @@
 
 **Ray-tracing implementation**
 
+<img src="imgs/render_12000.bmp" width="100px"/>
+
+- 趣味でRay-tracingをC++で実装しました。
+- 画像はコーネルボックスの100x100pxでレンダリングした結果です。
+
 **ナンバープレート認識システム**
 - Edge AIコンピュータのJetson Nano上で動作する日本語ナンバープレート認識システムを開発しました。
 - 研究開発案件で開発しました。
 - 開発当時、Nvidiaが公開しているLPRモデルが日本のナンバープレートに対応していなかったため、日本のナンバープレートに対応するシステムを開発しました。
-- プロジェクトの過程で作成したコードを公開しています。tensorrt infer、google-drive-docment-ocr、deepstream_lpr_app_python
+- プロジェクトの過程で作成したコードを公開しています。tensorrt infer、google-drive-docment-ocr、deepstream_lpr_app_python、ImageDataAugmentation
 
 **姿勢監視タスク管理アプリ**
 
@@ -127,3 +143,4 @@
 - TOEFL iBT: 79 (2022 September)
 - TOEIC L&R: 920 (2023 February)
 - 応用情報技術者試験
+- 42 Tokyoに所属しており、低レイヤ側の開発の練習をしています。
