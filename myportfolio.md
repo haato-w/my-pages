@@ -18,21 +18,12 @@
   <dt>Comming Soon.</dt>
 </dl> -->
 
-<dl>
-  <dt>Comming Soon.</dt>
-</dl>
-
-<dl>
-  <dt>Exploring User’s Line of Sight And Word Gesture Text Entry Techniques in Virtual Reality</dt>
-  <dd>Haato Watanabe, Ryo Hatano, Hiroyuki Nishiyama</dd>
-  <dd>VR空間において、目線で英字キーボード入力を行うシステムの提案、評価を行いました。</dd>
-  <dd>Proceedings of the Joint Symposium of The Twenty-Ninth International Symposium on Artificial Life and Robotics (AROB 29th 2024)</dd>
-</dl>
+**Comming Soon.**
 
 **Exploring User’s Line of Sight And Word Gesture Text Entry Techniques in Virtual Reality**
-- Haato Watanabe, Ryo Hatano, Hiroyuki Nishiyama</dd>
-- VR空間において、目線で英字キーボード入力を行うシステムの提案、評価を行いました。</dd>
-- Proceedings of the Joint Symposium of The Twenty-Ninth International Symposium on Artificial Life and Robotics (AROB 29th 2024)</dd>
+  　　Haato Watanabe, Ryo Hatano, Hiroyuki Nishiyama
+    VR空間において、目線で英字キーボード入力を行うシステムの提案、評価を行いました。
+    Proceedings of the Joint Symposium of The Twenty-Ninth International Symposium on Artificial Life and Robotics (AROB 29th 2024)
 
 ***
 
@@ -40,7 +31,7 @@
 <dl>
   <dt>株式会社Preferred Networks</dt>
   <dd>R&Dサマーインターン、パートタイムエンジニア</dd>
-  <dd>4D Gaussian splatting web viewerの開発をしました。<a href="https://tech.preferred.jp/ja/blog/4d-gaussian-splatting-web-viewer/" target="_blank">成果ブログを公開しています。</a></dd>
+  <dd>4D Gaussian splatting web viewerの開発をしました。<a href="https://tech.preferred.jp/ja/blog/4d-gaussian-splatting-web-viewer/" target="_blank">成果ブログ</a>を公開しています。</dd>
 </dl>
 
 <dl>
