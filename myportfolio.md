@@ -66,7 +66,8 @@
 
 **Stable fluids implementation**
 
-<video src="/videos/fluid_simulation.mp4" controls="true" width="300"></video>
+<video src="https://github.com/user-attachments/assets/a12588de-e853-421a-a99f-04d1af530765" controls="true" width="300"></video>
+<!-- https://github.com/user-attachments/assets/a12588de-e853-421a-a99f-04d1af530765 -->
 
 - 流体シミューレーションの1種であるStable fluidsをCで実装しました。OpenMPを用いてSIMD並列化とスレッド並列化を行いました。
 - 元々流体シミューレーションに興味があったのでキャッチアップの最初のステップとして丁度良いと思い始めました。
