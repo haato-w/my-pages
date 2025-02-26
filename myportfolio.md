@@ -21,8 +21,8 @@
 **Comming Soon.**
 
 **Exploring User’s Line of Sight And Word Gesture Text Entry Techniques in Virtual Reality**
-  　　Haato Watanabe, Ryo Hatano, Hiroyuki Nishiyama
-    VR空間において、目線で英字キーボード入力を行うシステムの提案、評価を行いました。
+    Haato Watanabe, Ryo Hatano, Hiroyuki Nishiyama<br>
+    VR空間において、目線で英字キーボード入力を行うシステムの提案、評価を行いました。<br>
     Proceedings of the Joint Symposium of The Twenty-Ninth International Symposium on Artificial Life and Robotics (AROB 29th 2024)
 
 ***
