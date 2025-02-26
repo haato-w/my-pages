@@ -69,7 +69,11 @@
 - 実装を公開しています。
 
 **Nerf synthetic data creation code using Mitsuba renderer**
-- 画像を載せる
+- Mitsuba rendererを使用してNeRFのsyntheticデータを撮影する環境を作成しました。
+- 公式実装ではBlender上のスクリプトで作成されていますが、Mitsuba rendererでデータを撮りたくなったので作成しました。
+- Mitsuba上でオブジェクトを配置してランダムな位置から撮影できます。
+- ランダムに位置を決める処理や出力されるカメラパラメータファイルはNerf-syntheticデータセットを作成するコードに合わせて作っているので、3D Reconstructionに使いやすいと思います。
+- 実装を公開しています。
 
 <!-- <dl>
   <dt>Codes made in current project</dt>
