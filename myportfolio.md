@@ -69,7 +69,7 @@
 <video src="https://github.com/user-attachments/assets/a12588de-e853-421a-a99f-04d1af530765" controls="true" width="300"></video>
 <!-- https://github.com/user-attachments/assets/a12588de-e853-421a-a99f-04d1af530765 -->
 
-- 流体シミューレーションの1種であるStable fluidsをCで実装しました。OpenMPを用いてSIMD並列化とスレッド並列化を行いました。
+- 流体シミュレーションの1種であるStable fluidsをCで実装しました。OpenMPを用いてSIMD並列化とスレッド並列化を行いました。
 - 元々流体シミューレーションに興味があったのでキャッチアップの最初のステップとして丁度良いと思い始めました。
 
 <!-- <dl>
@@ -102,6 +102,8 @@
 - アニメーションはUnity、バイブレーションはCore Hapticsを用いて開発しました。
 - ハイカジュゲームを作る過程で実験のために作ったアプリです。
 
+**Ray-tracing implementation**
+
 **ナンバープレート認識システム**
 - Edge AIコンピュータのJetson Nano上で動作する日本語ナンバープレート認識システムを開発しました。
 - 研究開発案件で開発しました。
@@ -113,8 +115,6 @@
 **DeNAハッカソンのサイト**
 
 **android code learning app code**
-
-**Ray-tracing implementation**
 
 ***
 
