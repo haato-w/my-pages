@@ -55,11 +55,9 @@
   <dd></dd>
 </dl> -->
 
-<dl>
-  <dt>Stable fluids implementation</dt>
-  <dd>流体シミューレーションの1種であるStable fluidsをCで実装しました。OpenMPを用いてSIMD並列化とスレッド並列化を行いました。</dd>
-  <dd>元々流体シミューレーションに興味があったのでキャッチアップの最初のステップとして丁度良いと思い始めました。</dd>
-</dl>
+**Stable fluids implementation**
+- 流体シミューレーションの1種であるStable fluidsをCで実装しました。OpenMPを用いてSIMD並列化とスレッド並列化を行いました。
+- 元々流体シミューレーションに興味があったのでキャッチアップの最初のステップとして丁度良いと思い始めました。
 
 <!-- <dl>
   <dt>3D Gabor Splatting</dt>
@@ -67,26 +65,20 @@
   <dd></dd>
 </dl> -->
 
-<dl>
-  <dt>4D Gaussian Splatting Web Viewer</dt>
-  <dd>プリファード・ネットワークスのR&Dサマーインターン、アルバイトで動きのある3D Sceneを再構成する手法である4D Gaussian SplattingのWeb Viewerを開発しました。PCとモバイルデバイスの両方で動作します。</dd>
-  <dd>WebGLとReactで開発を行いました。シェーダーでのレンダリング処理やカメラ操作、視点変更UIのための衝突判定処理等を実装しました。</dd>
-  <dd>ウェブブラウザという限られた環境の中で様々な処理を行う必要があるため、処理の効率化やスレッド並列化を特に工夫しました。</dd>
-  <dd>サマーインターンにおける開発成果は[テックブログ](https://tech.preferred.jp/ja/blog/4d-gaussian-splatting-web-viewer/ "PFN Tech Blog")として公開しています。</dd>
-</dl>
+**4D Gaussian Splatting Web Viewer**
+- プリファード・ネットワークスのR&Dサマーインターン、アルバイトで動きのある3D Sceneを再構成する手法である4D Gaussian SplattingのWeb Viewerを開発しました。PCとモバイルデバイスの両方で動作します。
+- WebGLとReactで開発を行いました。シェーダーでのレンダリング処理やカメラ操作、視点変更UIのための衝突判定処理等を実装しました。
+- ウェブブラウザという限られた環境の中で様々な処理を行う必要があるため、処理の効率化やスレッド並列化を特に工夫しました。
+- サマーインターンにおける開発成果は[テックブログ](https://tech.preferred.jp/ja/blog/4d-gaussian-splatting-web-viewer/ "PFN Tech Blog")として公開しています。
 
-<dl>
-  <dt>C Standard Library reimplementation</dt>
-  <dd>低レイヤのコードに慣れようと思い、C標準ライブラリを再実装しました。</dd>
-  <dd>実装難易度は全く高くないですが、自分で書くと細かい仕様を学べるので楽しかったです。</dd>
-</dl>
+**C Standard Library reimplementation**
+- 低レイヤのコードに慣れようと思い、C標準ライブラリを再実装しました。
+- 実装難易度は全く高くないですが、自分で書くと細かい仕様を学べるので楽しかったです。
 
-<dl>
-  <dt>視線によるキーボード入力アプリ</dt>
-  <dd>Meta Quest上でどうさする視線で英字キーボードを操作できるシステムです。</dd>
-  <dd>視線でキーボードをなぞり、ジェスチャータイピングを行うことで英単語を入力できます。</dd>
-  <dd>[実装を公開しています。](https://github.com/haato-w/VRKeyBoardUsingGestureTypingWithEyeTracking "github repository")</dd>
-</dl>
+**視線によるキーボード入力アプリ**
+- Meta Quest上でどうさする視線で英字キーボードを操作できるシステムです。
+- 視線でキーボードをなぞり、ジェスチャータイピングを行うことで英単語を入力できます。
+- [実装を公開しています。](https://github.com/haato-w/VRKeyBoardUsingGestureTypingWithEyeTracking "github repository")
 
 <dl>
   <dt>ペリペリ感触アプリ</dt>
