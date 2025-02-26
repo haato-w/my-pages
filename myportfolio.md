@@ -28,11 +28,9 @@
 ***
 
 ## Experience
-<dl>
-  <dt>株式会社Preferred Networks</dt>
-  <dd>R&Dサマーインターン、パートタイムエンジニア</dd>
-  <dd>4D Gaussian splatting web viewerの開発をしました。<a href="https://tech.preferred.jp/ja/blog/4d-gaussian-splatting-web-viewer/" target="_blank">成果ブログ</a>を公開しています。</dd>
-</dl>
+**株式会社Preferred Networks**
+- R&Dサマーインターン、パートタイムエンジニア
+- 4D Gaussian splatting web viewerの開発をしました。<a href="https://tech.preferred.jp/ja/blog/4d-gaussian-splatting-web-viewer/" target="_blank">成果ブログ</a>を公開しています。
 
 <dl>
   <dt>株式会社松尾研究所</dt>
