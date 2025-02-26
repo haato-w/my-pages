@@ -32,6 +32,8 @@
 - R&Dサマーインターン、パートタイムエンジニア
 - 4D Gaussian splatting web viewerの開発をしました。<a href="https://tech.preferred.jp/ja/blog/4d-gaussian-splatting-web-viewer/" target="_blank">成果ブログ</a>を公開しています。
 
+    <p>hello p</p>
+
 **株式会社松尾研究所**
 - エンジニア インターン
 - LLMを用いた業務効率化システムの共同研究プロジェクトに参加しました。
