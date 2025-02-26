@@ -29,6 +29,11 @@
   <dd>Proceedings of the Joint Symposium of The Twenty-Ninth International Symposium on Artificial Life and Robotics (AROB 29th 2024)</dd>
 </dl>
 
+**Exploring User’s Line of Sight And Word Gesture Text Entry Techniques in Virtual Reality**
+- Haato Watanabe, Ryo Hatano, Hiroyuki Nishiyama</dd>
+- VR空間において、目線で英字キーボード入力を行うシステムの提案、評価を行いました。</dd>
+- Proceedings of the Joint Symposium of The Twenty-Ninth International Symposium on Artificial Life and Robotics (AROB 29th 2024)</dd>
+
 ***
 
 ## Experience
@@ -81,17 +86,16 @@
 
 <dl>
   <dt>4D Gaussian Splatting Web Viewer</dt>
-  <dd>プリファード・ネットワークスのR&Dサマーインターン、アルバイトで動きのある3D Sceneを再構成する手法である4D Gaussian SplattingのWeb Viewerを開発しました。</dd>
+  <dd>プリファード・ネットワークスのR&Dサマーインターン、アルバイトで動きのある3D Sceneを再構成する手法である4D Gaussian SplattingのWeb Viewerを開発しました。PCとモバイルデバイスの両方で動作します。</dd>
   <dd>WebGLとReactで開発を行いました。シェーダーでのレンダリング処理やカメラ操作、視点変更UIのための衝突判定処理等を実装しました。</dd>
   <dd>ウェブブラウザという限られた環境の中で様々な処理を行う必要があるため、処理の効率化やスレッド並列化を特に工夫しました。</dd>
   <dd>サマーインターンにおける開発成果は[テックブログ](https://tech.preferred.jp/ja/blog/4d-gaussian-splatting-web-viewer/ "PFN Tech Blog")として公開しています。</dd>
 </dl>
 
 <dl>
-  <dt>ペリペリ感触アプリ</dt>
-  <dd>iOS上で動作する「くじ引きをめくっているときのペリペリ感を体感する」ことができるアプリを開発しました。スマホの画面を指でなぞるとくじがめくられるアニメーションが動作し、バイブレーションによりくじをめくっている感触を体験できます。</dd>
-  <dd>アニメーションはUnity、バイブレーションはCore Hapticsを用いて開発しました。</dd>
-  <dd>ハイカジュゲームを作る過程で実験のために作ったアプリです。</dd>
+  <dt>C Standard Library reimplementation</dt>
+  <dd>低レイヤのコードに慣れようと思い、C標準ライブラリを再実装しました。</dd>
+  <dd>実装難易度は全く高くないですが、自分で書くと細かい仕様を学べるので楽しかったです。</dd>
 </dl>
 
 <dl>
@@ -102,9 +106,33 @@
 </dl>
 
 <dl>
+  <dt>ペリペリ感触アプリ</dt>
+  <dd>iOS上で動作する「くじ引きをめくっているときのペリペリ感を体感する」ことができるアプリを開発しました。スマホの画面を指でなぞるとくじがめくられるアニメーションが動作し、バイブレーションによりくじをめくっている感触を体験できます。</dd>
+  <dd>アニメーションはUnity、バイブレーションはCore Hapticsを用いて開発しました。</dd>
+  <dd>ハイカジュゲームを作る過程で実験のために作ったアプリです。</dd>
+</dl>
+
+<dl>
   <dt>ナンバープレート認識システム</dt>
   <dd>Edge AIコンピュータのJetson Nano上で動作する日本語ナンバープレート認識システムを開発しました。</dd>
   <dd>研究開発案件で開発しました。</dd>
+  <dd>開発当時、Nvidiaが公開しているLPRモデルが日本のナンバープレートに対応していなかったため、日本のナンバープレートに対応するシステムを開発しました。</dd>
+  <dd></dd>
+  <dd>プロジェクトの過程で作成したコードを公開しています。tensorrt infer、google-drive-docment-ocr、deepstream_lpr_app_python</dd>
+</dl>
+
+<dl>
+  <dt>姿勢監視タスク管理アプリ</dt>
+  <dd></dd>
+</dl>
+
+<dl>
+  <dt>DeNAハッカソンのサイト</dt>
+  <dd></dd>
+</dl>
+
+<dl>
+  <dt>android code learning app code</dt>
   <dd></dd>
 </dl>
 
