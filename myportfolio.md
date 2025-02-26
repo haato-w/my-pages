@@ -32,25 +32,19 @@
 - R&Dサマーインターン、パートタイムエンジニア
 - 4D Gaussian splatting web viewerの開発をしました。<a href="https://tech.preferred.jp/ja/blog/4d-gaussian-splatting-web-viewer/" target="_blank">成果ブログ</a>を公開しています。
 
-<dl>
-  <dt>株式会社松尾研究所</dt>
-  <dd>エンジニア インターン</dd>
-  <dd>LLMを用いた業務効率化システムの共同研究プロジェクトに参加しました。</dd>
-</dl>
+**株式会社松尾研究所**
+- エンジニア インターン
+- LLMを用いた業務効率化システムの共同研究プロジェクトに参加しました。
 
-<dl>
-  <dt>株式会社プレイド</dt>
-  <dd>エンジニア インターン</dd>
-  <dd>webプロダクトの開発に参加していました。バックエンド、フロントエンド両方の開発を担当していました。</dd>
-  <dd>キーワード：TypeScript, Express, Vue, Mongo, circleci, e2e, svelte, CDN</dd>
-</dl>
+**株式会社プレイド**
+- エンジニア インターン
+- webプロダクトの開発に参加していました。バックエンド、フロントエンド両方の開発を担当していました。
+- キーワード：TypeScript, Express, Vue, Mongo, circleci, e2e, svelte, CDN
 
-<dl>
-  <dt>株式会社Alice</dt>
-  <dd>エンジニア（業務委託）</dd>
-  <dd>Edge AIの画像認識システムを開発をしました。既存プロダクトの調査、既存技術のサーベイ・検証、論文実装、システム設計、コーディングを一貫して個人プロジェクトとして行いました。</dd>
-  <dd>キーワード：Keras, Tensorflow, ONNX, TensorRT, Jupyter, Git, Docker, Linux</dd>
-</dl>
+**株式会社Alice**
+- エンジニア（業務委託）
+- Edge AIの画像認識システムを開発をしました。既存プロダクトの調査、既存技術のサーベイ・検証、論文実装、システム設計、コーディングを一貫して個人プロジェクトとして行いました。
+- キーワード：Keras, Tensorflow, ONNX, TensorRT, Jupyter, Git, Docker, Linux
 
 ***
 
