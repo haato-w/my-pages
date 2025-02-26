@@ -29,16 +29,23 @@
 
 ## Experience
 **株式会社Preferred Networks**
+
+<img src="imgs/PFN_logo.png" width="100px"/>
+
 - R&Dサマーインターン、パートタイムエンジニア
 - 4D Gaussian splatting web viewerの開発をしました。<a href="https://tech.preferred.jp/ja/blog/4d-gaussian-splatting-web-viewer/" target="_blank">成果ブログ</a>を公開しています。
 
-<p>hello p</p>
-
 **株式会社松尾研究所**
+
+<img src="imgs/matsuo_logo.jpeg" width="100px"/>
+
 - エンジニア インターン
 - LLMを用いた業務効率化システムの共同研究プロジェクトに参加しました。
 
 **株式会社プレイド**
+
+<img src="imgs/plaid_logo.png" width="100px"/>
+
 - エンジニア インターン
 - webプロダクトの開発に参加していました。バックエンド、フロントエンド両方の開発を担当していました。
 - キーワード：TypeScript, Express, Vue, Mongo, circleci, e2e, svelte, CDN
@@ -58,6 +65,11 @@
 </dl> -->
 
 **Stable fluids implementation**
+
+<video controls width="300">
+  <source src="/videos/fluid_simulation.mp4" type="video/mp4" />
+</video>
+
 - 流体シミューレーションの1種であるStable fluidsをCで実装しました。OpenMPを用いてSIMD並列化とスレッド並列化を行いました。
 - 元々流体シミューレーションに興味があったのでキャッチアップの最初のステップとして丁度良いと思い始めました。
 
