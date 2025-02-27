@@ -137,8 +137,12 @@
 - [**実装を公開しています。**](https://github.com/haato-w/VRKeyBoardUsingGestureTypingWithEyeTracking "github repository"){:target="_blank"}
 
 **ペリペリ感触アプリ**
+
+<video src="" controls="true" loop="true" autoplay="true" muted width="250"></video>
+
 - iOS上で動作する「くじ引きをめくっているときのペリペリ感を体感する」ことができるアプリを開発しました。スマホの画面を指でなぞるとくじがめくられるアニメーションが動作し、バイブレーションによりくじをめくっている感触を体験できます。
 - アニメーションはUnity、バイブレーションはCore Hapticsを用いて開発しました。
+- Test Flightで配布してテストしていました。
 - ハイカジュゲームを作る過程で実験のために作ったアプリです。
 
 **Ray-tracing implementation**
