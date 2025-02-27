@@ -101,10 +101,9 @@
 **Gabor noise rasterizer in image space using pytorch**
 
 <div align="center">
-<img src="imgs/gabor_noise_figure.png" width="500px"/>
-<video src="https://github.com/user-attachments/assets/4e99b9c3-1890-4923-9db4-4c855d93b0ab" controls="true" loop="true" autoplay="true" muted width="500"></video>
+<img src="imgs/gabor_noise_figure.png" width="400px"/>
+<video src="https://github.com/user-attachments/assets/4e99b9c3-1890-4923-9db4-4c855d93b0ab" controls="true" loop="true" autoplay="true" muted width="400"></video>
 </div>
-
 <!-- https://github.com/user-attachments/assets/4e99b9c3-1890-4923-9db4-4c855d93b0ab -->
 <!-- https://github.com/user-attachments/assets/0eeefd1f-b22f-45c2-ab16-bc9c953ce50c -->
 
@@ -115,7 +114,7 @@
 **4D Gaussian Splatting Web Viewer**
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/dPzrhA_5MDw?si=KoVLpvjnd7yvuY5a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uEdum66-xPc?si=eAeCWp-txWZRwIPq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="450" src="https://www.youtube.com/embed/uEdum66-xPc?si=eAeCWp-txWZRwIPq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - プリファード・ネットワークスのR&Dサマーインターン、アルバイトで動きのある3D Sceneを再構成する手法である4D Gaussian SplattingのWeb Viewerを開発しました。PCとモバイルデバイスの両方で動作します。
 - WebGLとReactで開発を行いました。シェーダーでのレンダリング処理やカメラ操作、視点変更UIのための衝突判定処理等を実装しました。
@@ -161,10 +160,22 @@
 - 画像はコーネルボックスの100x100pxでレンダリングした結果です。
 
 **ナンバープレート認識システム**
+<a id="license_plate_system"></a>
+
+<img src="" width="400px"/>
+
 - Edge AIコンピュータのJetson Nano上で動作する日本語ナンバープレート認識システムを開発しました。
 - 研究開発案件で開発しました。
 - 開発当時、Nvidiaが公開しているLPRモデルが日本のナンバープレートに対応していなかったため、日本のナンバープレートに対応するシステムを開発しました。
 - プロジェクトの過程で作成したコードを公開しています。tensorrt infer、google-drive-docment-ocr、deepstream_lpr_app_python、ImageDataAugmentation
+
+**ImageDataAugmentation code**
+
+<img src="imgs/data_augumentation.png" width="300px"/>
+
+- 細かい調整ができるデータアーギュメンテーションのコードです。
+- [ナンバープレート認識システム](#license_plate_system)の開発の過程で文字認識を行う必要があり、当時細かいパラメータ調整ができるライブラリが無かったので作りました。
+- 実装を公開しています。
 
 **姿勢監視タスク管理アプリ**
 
