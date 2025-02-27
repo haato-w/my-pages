@@ -100,9 +100,11 @@
 
 **Gabor noise rasterizer in image space using pytorch**
 
+<div align="center">
 <img src="imgs/gabor_noise_figure.png" width="500px"/>
-
 <video src="https://github.com/user-attachments/assets/4e99b9c3-1890-4923-9db4-4c855d93b0ab" controls="true" loop="true" autoplay="true" muted width="500"></video>
+</div>
+
 <!-- https://github.com/user-attachments/assets/4e99b9c3-1890-4923-9db4-4c855d93b0ab -->
 <!-- https://github.com/user-attachments/assets/0eeefd1f-b22f-45c2-ab16-bc9c953ce50c -->
 
