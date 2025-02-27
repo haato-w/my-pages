@@ -63,7 +63,7 @@
 
 ## Works
 
-**Making Visual hull mesh from mask images and camera params**
+### Making Visual hull mesh from mask images and camera params
 
 <video src="https://github.com/user-attachments/assets/37b00ca7-bea7-425f-9018-5901d05bca99" controls="true" loop="true" autoplay="true" muted width="600"></video>
 <!-- https://github.com/user-attachments/assets/37b00ca7-bea7-425f-9018-5901d05bca99 -->
@@ -73,7 +73,7 @@
 - visual hullを作成するコードは存在していたのですが、使いにくかったのでシンプルな仕様で作り直しました。
 - 実装を公開しています。
 
-**Nerf synthetic data creation code using Mitsuba renderer**
+### Nerf synthetic data creation code using Mitsuba renderer
 
 <img src="imgs/mitsuba_yuksel_hair_curly.png" width="400px"/>
 
@@ -85,7 +85,7 @@
 - コードに書かれている[jsonデータを設定することでレンダリングするシーンを変更](https://mitsuba.readthedocs.io/en/stable/src/generated/plugins_shapes.html "mitsuba document"){:target="_blank"}できます。
 - 実装を公開しています。
 
-**Stable fluids implementation**
+### Stable fluids implementation
 
 <video src="https://github.com/user-attachments/assets/a12588de-e853-421a-a99f-04d1af530765" controls="true" loop="true" autoplay="true" muted width="300"></video>
 <!-- https://github.com/user-attachments/assets/a12588de-e853-421a-a99f-04d1af530765 -->
@@ -99,7 +99,7 @@
 <!-- **3D Gabor Splatting** -->
 
 
-**Gabor noise rasterizer in image space using pytorch**
+### Gabor noise rasterizer in image space using pytorch
 
 <div align="center">
 <img src="imgs/gabor_noise_figure.png" width="400px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -112,7 +112,7 @@
 - pytorchで実装しているためexample imageに対してfittingをすることができます。
 - 実装を公開しています。
 
-**4D Gaussian Splatting Web Viewer**
+### 4D Gaussian Splatting Web Viewer
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/dPzrhA_5MDw?si=KoVLpvjnd7yvuY5a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 <iframe width="450" height="300" src="https://www.youtube.com/embed/uEdum66-xPc?si=eAeCWp-txWZRwIPq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -124,12 +124,12 @@
 - サマーインターンにおける開発成果は[**テックブログ**](https://tech.preferred.jp/ja/blog/4d-gaussian-splatting-web-viewer/ "PFN Tech Blog"){:target="_blank"}として公開しています。
 - 時間周りは書籍「ゲームエンジン・アーキテクチャ」の7.4, 7.5章の時間の扱いが参考になりました。
 
-**C Standard Library reimplementation**
+### C Standard Library reimplementation
 - 低レイヤのコードに慣れようと思い、C標準ライブラリを再実装しました。
 - 実装難易度は全く高くないですが、自分で書くと細かい仕様を学べるので楽しかったです。
 - [**実装を公開しています。**](https://github.com/haato-w/my-c-standard-library "github repository"){:target="_blank"}
 
-**視線によるキーボード入力アプリ**
+### 視線によるキーボード入力アプリ
 
 <div align="center">
 <img src="imgs/eye_gesture_playing_situation.png" width="400px"/>
@@ -143,7 +143,7 @@
 - マウス操作は目で行い、選択はコントローラで行います。
 - [**実装を公開しています。**](https://github.com/haato-w/VRKeyBoardUsingGestureTypingWithEyeTracking "github repository"){:target="_blank"}
 
-**ペリペリ感触アプリ**
+### ペリペリ感触アプリ
 
 <video src="https://github.com/user-attachments/assets/f83fb95f-f8f6-4a55-b9c2-7871669fbf96" controls="true" loop="true" autoplay="true" muted width="400"></video>
 <!-- https://github.com/user-attachments/assets/f83fb95f-f8f6-4a55-b9c2-7871669fbf96 -->
@@ -154,14 +154,14 @@
 - アニメーションはUnity、バイブレーションはCore Hapticsを用いて開発しました。
 - Test Flightで配布してテストしていました。
 
-**Ray-tracing implementation**
+### Ray-tracing implementation
 
 <img src="imgs/render_12000.bmp" width="100px"/>
 
 - 趣味でRay-tracingをC++で実装しました。
 - 画像はコーネルボックスの100x100pxでレンダリングした結果です。
 
-**ナンバープレート認識システム**
+### ナンバープレート認識システム
 <a id="license_plate_system"></a>
 
 <img src="imgs/license_plate_system.png" width="400px"/>
