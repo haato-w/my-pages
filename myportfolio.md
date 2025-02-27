@@ -125,7 +125,7 @@
 
 **視線によるキーボード入力アプリ**
 
-<img src="" width="300px"/>
+<img src="imgs/eye_gesture_playing_situation.png" width="300px"/>
 
 <video src="https://github.com/user-attachments/assets/b8325822-dc42-422c-8833-4242fbcbc9ca" controls="true" loop="true" autoplay="true" muted width="300"></video>
 <!-- https://github.com/user-attachments/assets/b8325822-dc42-422c-8833-4242fbcbc9ca -->
