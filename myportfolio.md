@@ -92,7 +92,8 @@
 
 <img src="imgs/gabor_noise_figure.png" width="300px"/>
 
-<video src="" controls="true" loop="true" autoplay="true" muted width="300"></video>
+<video src="https://github.com/user-attachments/assets/0eeefd1f-b22f-45c2-ab16-bc9c953ce50c" controls="true" loop="true" autoplay="true" muted width="300"></video>
+<!-- https://github.com/user-attachments/assets/0eeefd1f-b22f-45c2-ab16-bc9c953ce50c -->
 
 - 画像空間でGabor noiseを生成できるコードです。
 - pytorchで実装しているためexample imageに対してfittingをすることができます。
