@@ -175,14 +175,14 @@
     - NvidiaのLPDNetモデルをTensorRTライブラリで高速化
     - OpenCVを用いた画像処理による文字の抽出
     - 文字認識CNNモデルを訓練しTensorRTライブラリで高速化
-- プロジェクトの過程で作成したコードを公開しています。
-    - [tensorrt-infer-python](https://github.com/haato-w/tensorrt-infer-python "github repository"){:target="_blank"}
+- プロジェクトの過程で作成した**コードを公開しています**。
+    - [**tensorrt-infer-python**](https://github.com/haato-w/tensorrt-infer-python "github repository"){:target="_blank"}
         - PythonでTensorRTを用いてinferenceをするコードです。
-    - [google-drive-document-ocr](https://github.com/haato-w/google-drive-document-ocr "github repository"){:target="_blank"}
+    - [**google-drive-document-ocr**](https://github.com/haato-w/google-drive-document-ocr "github repository"){:target="_blank"}
         - Google DocumentのOCR機能を用いてOCRを行うコードです。
         - GoogleDriveAPIを利用します。
         - Google DocumentのOCR機能の精度が良かったので遊びで作りました。
-    - [deepstream_lpr_app_python](https://github.com/haato-w/deepstream_lpr_app_python "github repository"){:target="_blank"}
+    - [**deepstream_lpr_app_python**](https://github.com/haato-w/deepstream_lpr_app_python "github repository"){:target="_blank"}
         - [Nvidiaが公開しているLicense Place Recognition(LPR)モデル](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/tao/models/lprnet "nvidia ngc catalog"){:target="_blank"}のPython版です。
         - [公式のサンプルコード](https://github.com/NVIDIA-AI-IOT/deepstream_lpr_app "github repository"){:target="_blank"}はCで書かれていたのでPythonで作りました。
 
@@ -192,11 +192,22 @@
 
 - 細かい調整ができるデータアーギュメンテーションのコードです。
 - [ナンバープレート認識システム](#license_plate_system)の開発の過程で文字認識を行う必要があり、当時細かいパラメータ調整ができるライブラリが無かったので作りました。
-- [実装を公開しています。](https://github.com/haato-w/ImageDataAugmentation?tab=readme-ov-file "github repository"){:target="_blank"}
+- [**実装を公開しています。**](https://github.com/haato-w/ImageDataAugmentation?tab=readme-ov-file "github repository"){:target="_blank"}
 
-**姿勢監視タスク管理アプリ**
+### サイクリスト用情報交換サイト(DeNAハッカソン)
+<a id="dena_autum_hackathon"></a>
 
-**DeNAハッカソンのサイト**
+<img src="imgs/dena_autum_hackathon.png" width="400px"/>
+
+- 5人の学生チームでサイクリスト用情報交換サイトを作成しました。
+- DeNAのオータムハッカソン 2022で作成しました。
+- 自身はバックエンドを担当しました。
+- フロントエンドはReact、バックエンドはdjango, SQLiteで開発し、EC2にデプロイしました。
+
+### 姿勢監視タスク管理アプリ
+- タスク管理用タイマーに作業時の姿勢を監視して姿勢が崩れると警告を発する機能を付けたデスクトップアプリを開発しました。
+- ハッカソンで作成しました。
+- 姿勢推定はOpenPoseを用いており、フロントエンドはTkinterで作成しました。
 
 ### Android Code for Learning App**
 
@@ -205,13 +216,14 @@
 - １問１答形式の問題を練習するためのAndroidアプリケーションです。
 - サーバー側に問題と答えのCSVファイルを入れておくことで様々な問題を配布することができます。
 - 塾講師の友人がアプリを欲しがっていたので作りました。
-- [実装を公開しています。](https://github.com/haato-w/android-learning-app-java.git "github repository"){:target="_blank"}
+- [**実装を公開しています。**](https://github.com/haato-w/android-learning-app-java.git "github repository"){:target="_blank"}
 
 <!-- -------------------------------------------------------- -->
 ***
 
 ## Awards
 - 2022 DeNA オータムハッカソン 優勝
+    - 自身がリーダーを努めたチームで[サイクリスト用情報交換サイト](#dena_autum_hackathon)を作成しました。
 
 <!-- -------------------------------------------------------- -->
 ***
