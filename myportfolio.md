@@ -30,8 +30,10 @@
 ***
 
 ## Experience
-**株式会社Preferred Networks**
+
 <a id="pfn_intern"></a>
+
+**株式会社Preferred Networks**
 
 <img src="imgs/PFN_logo.png" width="100px"/>
 
@@ -63,6 +65,8 @@
 
 ## Works
 
+<!-- -------------------------------------------------------- -->
+
 ### Making Visual hull mesh from mask images and camera params
 
 <video src="https://github.com/user-attachments/assets/37b00ca7-bea7-425f-9018-5901d05bca99" controls="true" loop="true" autoplay="true" muted width="600"></video>
@@ -72,6 +76,8 @@
 - 多視点画像データのカメラパラメータとマスク画像から対象物体のvisual hull meshを生成するコードを実装しました。
 - visual hullを作成するコードは存在していたのですが、使いにくかったのでシンプルな仕様で作り直しました。
 - 実装を公開しています。
+
+<!-- -------------------------------------------------------- -->
 
 ### Nerf synthetic data creation code using Mitsuba renderer
 
@@ -85,6 +91,8 @@
 - コードに書かれている[jsonデータを設定することでレンダリングするシーンを変更](https://mitsuba.readthedocs.io/en/stable/src/generated/plugins_shapes.html "mitsuba document"){:target="_blank"}できます。
 - 実装を公開しています。
 
+<!-- -------------------------------------------------------- -->
+
 ### Stable fluids implementation
 
 <video src="https://github.com/user-attachments/assets/a12588de-e853-421a-a99f-04d1af530765" controls="true" loop="true" autoplay="true" muted width="300"></video>
@@ -95,9 +103,11 @@
 - 元々流体シミューレーションに興味があったのでキャッチアップの最初のステップとして丁度良いと思い始めました。
 - 書籍「GPU Gems」の38章「GPU上での高速な流体力学シミュレーション」が分かりやすかったです。
 
+<!-- -------------------------------------------------------- -->
 
 <!-- **3D Gabor Splatting** -->
 
+<!-- -------------------------------------------------------- -->
 
 ### Gabor noise rasterizer in image space using pytorch
 
@@ -112,6 +122,8 @@
 - pytorchで実装しているためexample imageに対してfittingをすることができます。
 - 実装を公開しています。
 
+<!-- -------------------------------------------------------- -->
+
 ### 4D Gaussian Splatting Web Viewer
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/dPzrhA_5MDw?si=KoVLpvjnd7yvuY5a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
@@ -124,10 +136,14 @@
 - サマーインターンにおける開発成果は[**テックブログ**](https://tech.preferred.jp/ja/blog/4d-gaussian-splatting-web-viewer/ "PFN Tech Blog"){:target="_blank"}として公開しています。
 - 時間周りは書籍「ゲームエンジン・アーキテクチャ」の7.4, 7.5章の時間の扱いが参考になりました。
 
+<!-- -------------------------------------------------------- -->
+
 ### C Standard Library reimplementation
 - 低レイヤのコードに慣れようと思い、C標準ライブラリを再実装しました。
 - 実装難易度は全く高くないですが、自分で書くと細かい仕様を学べるので楽しかったです。
 - [**実装を公開しています。**](https://github.com/haato-w/my-c-standard-library "github repository"){:target="_blank"}
+
+<!-- -------------------------------------------------------- -->
 
 ### 視線によるキーボード入力アプリ
 
@@ -143,6 +159,8 @@
 - マウス操作は目で行い、選択はコントローラで行います。
 - [**実装を公開しています。**](https://github.com/haato-w/VRKeyBoardUsingGestureTypingWithEyeTracking "github repository"){:target="_blank"}
 
+<!-- -------------------------------------------------------- -->
+
 ### ペリペリ感触アプリ
 
 <video src="https://github.com/user-attachments/assets/f83fb95f-f8f6-4a55-b9c2-7871669fbf96" controls="true" loop="true" autoplay="true" muted width="400"></video>
@@ -154,12 +172,16 @@
 - アニメーションはUnity、バイブレーションはCore Hapticsを用いて開発しました。
 - Test Flightで配布してテストしていました。
 
+<!-- -------------------------------------------------------- -->
+
 ### Ray-tracing implementation
 
 <img src="imgs/render_12000.bmp" width="100px"/>
 
 - 趣味でRay-tracingをC++で実装しました。
 - 画像はコーネルボックスの100x100pxでレンダリングした結果です。
+
+<!-- -------------------------------------------------------- -->
 
 ### ナンバープレート認識システム
 <a id="license_plate_system"></a>
@@ -186,6 +208,8 @@
         - [Nvidiaが公開しているLicense Place Recognition(LPR)モデル](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/tao/models/lprnet "nvidia ngc catalog"){:target="_blank"}のPython版です。
         - [公式のサンプルコード](https://github.com/NVIDIA-AI-IOT/deepstream_lpr_app "github repository"){:target="_blank"}はCで書かれていたのでPythonで作りました。
 
+<!-- -------------------------------------------------------- -->
+
 ### ImageDataAugmentation code
 
 <img src="imgs/data_augumentation.png" width="300px"/>
@@ -194,8 +218,11 @@
 - [ナンバープレート認識システム](#license_plate_system)の開発の過程で文字認識を行う必要があり、当時細かいパラメータ調整ができるライブラリが無かったので作りました。
 - [**実装を公開しています。**](https://github.com/haato-w/ImageDataAugmentation?tab=readme-ov-file "github repository"){:target="_blank"}
 
-### サイクリスト用情報交換サイト(DeNAハッカソン)
+<!-- -------------------------------------------------------- -->
+
 <a id="dena_autum_hackathon"></a>
+
+### サイクリスト用情報交換サイト(DeNAハッカソン)
 
 <img src="imgs/dena_autum_hackathon.png" width="400px"/>
 
@@ -204,10 +231,14 @@
 - 自身はバックエンドを担当しました。
 - フロントエンドはReact、バックエンドはdjango, SQLiteで開発し、EC2にデプロイしました。
 
+<!-- -------------------------------------------------------- -->
+
 ### 姿勢監視タスク管理アプリ
 - タスク管理用タイマーに作業時の姿勢を監視して姿勢が崩れると警告を発する機能を付けたデスクトップアプリを開発しました。
 - ハッカソンで作成しました。
 - 姿勢推定はOpenPoseを用いており、フロントエンドはTkinterで作成しました。
+
+<!-- -------------------------------------------------------- -->
 
 ### Learning App on Android
 
@@ -221,12 +252,14 @@
 - [**実装を公開しています。**](https://github.com/haato-w/android-learning-app-java.git "github repository"){:target="_blank"}
 
 <!-- -------------------------------------------------------- -->
+<!-- -------------------------------------------------------- -->
 ***
 
 ## Awards
 - 2022 DeNA オータムハッカソン 優勝
     - 自身がリーダーを努めたチームで[サイクリスト用情報交換サイト](#dena_autum_hackathon)を作成しました。
 
+<!-- -------------------------------------------------------- -->
 <!-- -------------------------------------------------------- -->
 ***
 
