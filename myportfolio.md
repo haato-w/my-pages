@@ -124,8 +124,16 @@
 - [**実装を公開しています。**](https://github.com/haato-w/my-c-standard-library "github repository"){:target="_blank"}
 
 **視線によるキーボード入力アプリ**
+
+<img src="" width="300px"/>
+
+<video src="https://github.com/user-attachments/assets/b8325822-dc42-422c-8833-4242fbcbc9ca" controls="true" loop="true" autoplay="true" muted width="300"></video>
+<!-- https://github.com/user-attachments/assets/b8325822-dc42-422c-8833-4242fbcbc9ca -->
+
 - Meta Quest上でどうさする視線で英字キーボードを操作できるシステムです。
 - 視線でキーボードをなぞり、ジェスチャータイピングを行うことで英単語を入力できます。
+- 動画は与えられたテキストを視線で入力している様子です。
+- マウス操作は目で行い、選択はコントローラで行います。
 - [**実装を公開しています。**](https://github.com/haato-w/VRKeyBoardUsingGestureTypingWithEyeTracking "github repository"){:target="_blank"}
 
 **ペリペリ感触アプリ**
