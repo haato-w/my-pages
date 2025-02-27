@@ -75,7 +75,7 @@
 
 - 多視点画像データのカメラパラメータとマスク画像から対象物体のvisual hull meshを生成するコードを実装しました。
 - visual hullを作成するコードは存在していたのですが、使いにくかったのでシンプルな仕様で作り直しました。
-- [**実装を公開しています。**](https://github.com/haato-w/visual-hull-mesh-creater/tree/main "github repository"){:target="_blank"}
+- [**実装を公開しています。**](https://github.com/haato-w/visual-hull-mesh-creator/tree/main "github repository"){:target="_blank"}
 
 <!-- -------------------------------------------------------- -->
 
@@ -89,7 +89,7 @@
 - Mitsuba上でオブジェクトを配置してランダムな位置から撮影できます。
 - ランダムに位置を決める処理や出力されるカメラパラメータファイルはNerf-syntheticデータセットを作成するコードに合わせて作っているので、3D Reconstructionに使いやすいと思います。
 - コードに書かれている[jsonデータを設定することでレンダリングするシーンを変更](https://mitsuba.readthedocs.io/en/stable/src/generated/plugins_shapes.html "mitsuba document"){:target="_blank"}できます。
-- 実装を公開しています。
+- [**実装を公開しています。**](https://github.com/haato-w/nerf-synthetic-data-creator-using-mitsuba "github repository"){:target="_blank"}
 
 <!-- -------------------------------------------------------- -->
 
