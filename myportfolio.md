@@ -200,10 +200,12 @@
 
 ### Android Code for Learning App**
 
-<video src="" controls="true" loop="true" autoplay="true" muted width="400"></video>
+<video src="https://github.com/user-attachments/assets/01983eb8-0422-4cea-8e37-6e9c6aef532e" controls="true" loop="true" autoplay="true" muted width="400"></video>
+<!-- https://github.com/user-attachments/assets/01983eb8-0422-4cea-8e37-6e9c6aef532e -->
 
 - １問１答形式の問題を練習するためのAndroidアプリケーションです。
 - サーバー側に問題と答えのCSVファイルを入れておくことで様々な問題を配布することができます。
+- フロントエンドはJava、バックエンドはPHPで作りました。
 - 塾講師の友人がアプリを欲しがっていたので作りました。
 - [実装を公開しています。](https://github.com/haato-w/android-learning-app-java.git "github repository"){:target="_blank"}
 
