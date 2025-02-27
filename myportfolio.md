@@ -138,7 +138,8 @@
 
 **ペリペリ感触アプリ**
 
-<video src="" controls="true" loop="true" autoplay="true" muted width="250"></video>
+<video src="https://github.com/user-attachments/assets/f83fb95f-f8f6-4a55-b9c2-7871669fbf96" controls="true" loop="true" autoplay="true" muted width="250"></video>
+<!-- https://github.com/user-attachments/assets/f83fb95f-f8f6-4a55-b9c2-7871669fbf96 -->
 
 - iOS上で動作する「くじ引きをめくっているときのペリペリ感を体感する」ことができるアプリを開発しました。スマホの画面を指でなぞるとくじがめくられるアニメーションが動作し、バイブレーションによりくじをめくっている感触を体験できます。
 - アニメーションはUnity、バイブレーションはCore Hapticsを用いて開発しました。
