@@ -2,10 +2,10 @@
 
 ## About
 所属：東京大学大学院 情報理工学系研究科 創造情報学専攻 梅谷研究室 修士　<br>
-専門：コンピュータ・グラフィックス、特にコンテンツ制作支援とシミュレーションに興味があり、現在は3D Reconstructionの研究をしています。
+専門：コンピュータ・グラフィックス、特にコンテンツ制作支援とシミュレーションに興味があります。現在は3D Reconstructionの研究をしています。
 
-- [Github](https://github.com/haato-w "Haato Watanabe Github home")
-- [Wantedly](https://www.wantedly.com/id/haato_watanabe "Haato Watanabe Wantedly home")
+- [Github](https://github.com/haato-w "Haato Watanabe Github home"){:target="_blank"}
+- [Wantedly](https://www.wantedly.com/id/haato_watanabe "Haato Watanabe Wantedly home"){:target="_blank"}
 
 <!-- -------------------------------------------------------- -->
 ***
@@ -182,9 +182,9 @@
 - 画像はコーネルボックスの100x100pxでレンダリングした結果です。
 
 <!-- -------------------------------------------------------- -->
+<a id="license_plate_system"></a>
 
 ### ナンバープレート認識システム
-<a id="license_plate_system"></a>
 
 <img src="imgs/license_plate_system.png" width="400px"/>
 
