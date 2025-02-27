@@ -115,7 +115,8 @@
 **4D Gaussian Splatting Web Viewer**
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/dPzrhA_5MDw?si=KoVLpvjnd7yvuY5a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
-<iframe width="450" height="300" src="https://www.youtube.com/embed/uEdum66-xPc?si=eAeCWp-txWZRwIPq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="450" height="300" src="https://www.youtube.com/embed/uEdum66-xPc?si=eAeCWp-txWZRwIPq?autoplay=1&mute=1&playsinline=1&loop=1&playlist=uEdum66-xPc?si=eAeCWp-txWZRwIPq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- https://www.youtube.com/embed/<video_id>?autoplay=1&mute=1&playsinline=1&loop=1&playlist=<video_id> -->
 
 - [プリファード・ネットワークスのR&Dサマーインターン、アルバイト](#pfn_intern)で動きのある3D Sceneを再構成する手法である4D Gaussian SplattingのWeb Viewerを開発しました。PCとモバイルデバイスの両方で動作します。
 - WebGLとReactで開発を行いました。シェーダーでのレンダリング処理やカメラ操作、視点変更UIのための衝突判定処理等を実装しました。
@@ -163,15 +164,26 @@
 **ナンバープレート認識システム**
 <a id="license_plate_system"></a>
 
-<div align="center">
 <img src="imgs/license_plate_system.png" width="400px"/>
 <img src="imgs/license_plate_system_detail.png" width="400px"/>
-</div>
 
 - Edge AIコンピュータのJetson Nano上で動作する日本語ナンバープレート認識システムを開発しました。
 - 研究開発案件で開発しました。
 - 開発当時、Nvidiaが公開しているLPRモデルが日本のナンバープレートに対応していなかったため、日本のナンバープレートに対応するシステムを開発しました。
-- プロジェクトの過程で作成したコードを公開しています。tensorrt infer、google-drive-docment-ocr、deepstream_lpr_app_python、ImageDataAugmentation
+- 以下、開発内容の一部です。
+    - NvidiaのLPDNetモデルをTensorRTライブラリで高速化
+    - OpenCVを用いた画像処理による文字の抽出
+    - 文字認識CNNモデルを訓練しTensorRTライブラリで高速化
+- プロジェクトの過程で作成したコードを公開しています。
+    - [tensorrt-infer-python](https://github.com/haato-w/tensorrt-infer-python "github repository"){:target="_blank"}
+        - PythonでTensorRTを用いてinferenceをするコードです。
+    - [google-drive-document-ocr](https://github.com/haato-w/google-drive-document-ocr "github repository"){:target="_blank"}
+        - Google DocumentのOCR機能を用いてOCRを行うコードです。
+        - GoogleDriveAPIを利用します。
+        - Google DocumentのOCR機能の精度が良かったので遊びで作りました。
+    - [deepstream_lpr_app_python](https://github.com/haato-w/deepstream_lpr_app_python "github repository"){:target="_blank"}
+        - [Nvidiaが公開しているLicense Place Recognition(LPR)モデル](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/tao/models/lprnet "nvidia ngc catalog"){:target="_blank"}のPython版です。
+        - [公式のサンプルコード](https://github.com/NVIDIA-AI-IOT/deepstream_lpr_app "github repository"){:target="_blank"}はCで書かれていたのでPythonで作りました。
 
 ### ImageDataAugmentation code
 
