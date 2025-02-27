@@ -76,12 +76,6 @@
 - ランダムに位置を決める処理や出力されるカメラパラメータファイルはNerf-syntheticデータセットを作成するコードに合わせて作っているので、3D Reconstructionに使いやすいと思います。
 - 実装を公開しています。
 
-<!-- <dl>
-  <dt>Codes made in current project</dt>
-  <dd>マスク画像からvisual hullを作成するコード</dd>
-  <dd>mitsubaでnerfデータを作るコード（yuksel dataset）</dd>
-</dl> -->
-
 **Stable fluids implementation**
 
 <video src="https://github.com/user-attachments/assets/a12588de-e853-421a-a99f-04d1af530765" controls="true" loop="true" autoplay="true" muted width="300"></video>
@@ -93,7 +87,16 @@
 
 
 <!-- **3D Gabor Splatting** -->
-<!-- - Image spaceでGabor noiseを生成するコードです。目的の画像に対してfittingすることができます。 -->
+
+**Gabor noise rasterizer in image space using pytorch**
+
+<img src="imgs/gabor_noise_figure.png" width="300px"/>
+
+<video src="" controls="true" loop="true" autoplay="true" muted width="300"></video>
+
+- 画像空間でGabor noiseを生成できるコードです。
+- pytorchで実装しているためexample imageに対してfittingをすることができます。
+- 実装を公開しています。
 
 **4D Gaussian Splatting Web Viewer**
 
