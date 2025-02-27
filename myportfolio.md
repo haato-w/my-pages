@@ -75,7 +75,7 @@
 
 - 多視点画像データのカメラパラメータとマスク画像から対象物体のvisual hull meshを生成するコードを実装しました。
 - visual hullを作成するコードは存在していたのですが、使いにくかったのでシンプルな仕様で作り直しました。
-- 実装を公開しています。
+- [**実装を公開しています。**](https://github.com/haato-w/visual-hull-mesh-creater/tree/main "github repository"){:target="_blank"}
 
 <!-- -------------------------------------------------------- -->
 
@@ -118,9 +118,12 @@
 <!-- https://github.com/user-attachments/assets/4e99b9c3-1890-4923-9db4-4c855d93b0ab -->
 <!-- https://github.com/user-attachments/assets/0eeefd1f-b22f-45c2-ab16-bc9c953ce50c -->
 
-- 画像空間でGabor noiseを生成できるコードです。
-- pytorchで実装しているためexample imageに対してfittingをすることができます。
-- 実装を公開しています。
+- PytorchでGabor noiseを表示するコードを作成しました。Pytorchで実装しているためexample imageに対してfittingをすることができます。
+- Gabor noiseとは
+    - Gaussian distributionに正弦波を掛けたものをGabor kernelと言います。
+    - Gabor kernelは画像から特徴を検出する場合に使われますが、複数のGabor kernelを画像空間で足し合わせることで様々なテクスチャを表現することができ、そのようなテクスチャをGabor noiseと言います。
+    - Gabor noiseはProcedural Texture Generation技術の1種として有名なものになります。
+- [**実装を公開しています。**](https://github.com/haato-w/gabor-noise-fitting-with-pytorch "github repository"){:target="_blank"}
 
 <!-- -------------------------------------------------------- -->
 
