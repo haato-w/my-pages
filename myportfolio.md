@@ -90,6 +90,7 @@
 <!-- https://github.com/user-attachments/assets/a12588de-e853-421a-a99f-04d1af530765 -->
 
 - 流体シミュレーションの1種であるStable fluidsをCで実装しました。OpenMPを用いてSIMD並列化とスレッド並列化を行いました。
+- Poisson方程式はJacobi法で計算しています。
 - 元々流体シミューレーションに興味があったのでキャッチアップの最初のステップとして丁度良いと思い始めました。
 - 書籍「GPU Gems」の38章「GPU上での高速な流体力学シミュレーション」が分かりやすかったです。
 
@@ -126,8 +127,8 @@
 
 **視線によるキーボード入力アプリ**
 
-<img src="imgs/eye_gesture_playing_situation.png" width="300px"/>
-<video src="https://github.com/user-attachments/assets/b8325822-dc42-422c-8833-4242fbcbc9ca" controls="true" loop="true" autoplay="true" muted width="300"></video>
+<img src="imgs/eye_gesture_playing_situation.png" width="400px"/>
+<video src="https://github.com/user-attachments/assets/b8325822-dc42-422c-8833-4242fbcbc9ca" controls="true" loop="true" autoplay="true" muted width="400"></video>
 <!-- https://github.com/user-attachments/assets/b8325822-dc42-422c-8833-4242fbcbc9ca -->
 
 - Meta Quest上でどうさする視線で英字キーボードを操作できるシステムです。
@@ -138,14 +139,14 @@
 
 **ペリペリ感触アプリ**
 
-<video src="https://github.com/user-attachments/assets/f83fb95f-f8f6-4a55-b9c2-7871669fbf96" controls="true" loop="true" autoplay="true" muted width="300"></video>
+<video src="https://github.com/user-attachments/assets/f83fb95f-f8f6-4a55-b9c2-7871669fbf96" controls="true" loop="true" autoplay="true" muted width="400"></video>
 <!-- https://github.com/user-attachments/assets/f83fb95f-f8f6-4a55-b9c2-7871669fbf96 -->
 
 - iOS上で動作する「くじ引きをめくっているときのペリペリ感を体感する」ことができるアプリを開発しました。スマホの画面を指でなぞるとくじがめくられるアニメーションが動作し、バイブレーションによりくじをめくっている感触を体験できます。
+- ハイカジュゲームを作る過程で実験のために作りました。
 - 動画はめくっている様子を示しています。めくる動作と同時にバイブレーションでぺりぺり感を演出します。
 - アニメーションはUnity、バイブレーションはCore Hapticsを用いて開発しました。
 - Test Flightで配布してテストしていました。
-- ハイカジュゲームを作る過程で実験のために作ったアプリです。
 
 **Ray-tracing implementation**
 
