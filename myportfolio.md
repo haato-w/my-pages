@@ -209,7 +209,7 @@
 - ハッカソンで作成しました。
 - 姿勢推定はOpenPoseを用いており、フロントエンドはTkinterで作成しました。
 
-### Android Code for Learning App**
+### Learning App on Android
 
 <video src="https://github.com/user-attachments/assets/01983eb8-0422-4cea-8e37-6e9c6aef532e" controls="true" loop="true" autoplay="true" muted width="400"></video>
 <!-- https://github.com/user-attachments/assets/01983eb8-0422-4cea-8e37-6e9c6aef532e -->
