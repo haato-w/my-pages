@@ -88,7 +88,7 @@
 - 写真は[Yuksel hair dataset](http://www.cemyuksel.com/research/hairmodels/ "cem yuksel"){:target="_blank"}(curly)をレンダリングした例です。
 - Mitsuba上でオブジェクトを配置してランダムな位置から撮影できます。
 - ランダムに位置を決める処理や出力されるカメラパラメータファイルはNerf-syntheticデータセットを作成するコードに合わせて作っているので、3D Reconstructionに使いやすいと思います。
-- コードに書かれている[jsonデータを設定することでレンダリングするシーンを変更](https://mitsuba.readthedocs.io/en/stable/src/generated/plugins_shapes.html "mitsuba document"){:target="_blank"}できます。
+- コードに書かれている[dict(json)データを設定することでレンダリングするシーンを変更](https://mitsuba.readthedocs.io/en/stable/src/generated/plugins_shapes.html "mitsuba document"){:target="_blank"}できます。
 - [**実装を公開しています。**](https://github.com/haato-w/nerf-synthetic-data-creator-using-mitsuba "github repository"){:target="_blank"}
 
 <!-- -------------------------------------------------------- -->
