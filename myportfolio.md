@@ -127,8 +127,10 @@
 
 **視線によるキーボード入力アプリ**
 
+<div align="center">
 <img src="imgs/eye_gesture_playing_situation.png" width="400px"/>
 <video src="https://github.com/user-attachments/assets/b8325822-dc42-422c-8833-4242fbcbc9ca" controls="true" loop="true" autoplay="true" muted width="400"></video>
+</div>
 <!-- https://github.com/user-attachments/assets/b8325822-dc42-422c-8833-4242fbcbc9ca -->
 
 - Meta Quest上でどうさする視線で英字キーボードを操作できるシステムです。
