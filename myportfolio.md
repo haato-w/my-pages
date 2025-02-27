@@ -7,6 +7,7 @@
 - [Github](https://github.com/haato-w "Haato Watanabe Github home")
 - [Wantedly](https://www.wantedly.com/id/haato_watanabe "Haato Watanabe Wantedly home")
 
+<!-- -------------------------------------------------------- -->
 ***
 
 ## Publications
@@ -25,6 +26,7 @@
 - Proceedings of the Joint Symposium of The Twenty-Ninth International Symposium on Artificial Life and Robotics (AROB 29th 2024)<br>
 - VR空間において、目線で英字キーボード入力を行うシステムの提案、評価を行いました。
 
+<!-- -------------------------------------------------------- -->
 ***
 
 ## Experience
@@ -55,6 +57,7 @@
 - Edge AIの画像認識システムを開発をしました。既存プロダクトの調査、既存技術のサーベイ・検証、論文実装、システム設計、コーディングを一貫して個人プロジェクトとして行いました。
 - キーワード：Keras, Tensorflow, ONNX, TensorRT, Jupyter, Git, Docker, Linux
 
+<!-- -------------------------------------------------------- -->
 ***
 
 ## Works
@@ -70,10 +73,14 @@
 - 実装を公開しています。
 
 **Nerf synthetic data creation code using Mitsuba renderer**
+
+<img src="imgs/mitsuba_yuksel_hair_curly.png" width="400px"/>
+
 - Mitsuba rendererを使用してNeRFのsyntheticデータを撮影する環境を作成しました。
 - 公式実装ではBlender上のスクリプトで作成されていますが、Mitsuba rendererでデータを撮りたくなったので作成しました。
 - Mitsuba上でオブジェクトを配置してランダムな位置から撮影できます。
 - ランダムに位置を決める処理や出力されるカメラパラメータファイルはNerf-syntheticデータセットを作成するコードに合わせて作っているので、3D Reconstructionに使いやすいと思います。
+- コードに書かれている[jsonデータを設定することでレンダリングするシーンを変更](https://mitsuba.readthedocs.io/en/stable/src/generated/plugins_shapes.html "mitsuba document"){:target="_blank"}できます。
 - 実装を公開しています。
 
 **Stable fluids implementation**
@@ -88,11 +95,12 @@
 
 <!-- **3D Gabor Splatting** -->
 
+
 **Gabor noise rasterizer in image space using pytorch**
 
-<img src="imgs/gabor_noise_figure.png" width="300px"/>
+<img src="imgs/gabor_noise_figure.png" width="500px"/>
 
-<video src="https://github.com/user-attachments/assets/0eeefd1f-b22f-45c2-ab16-bc9c953ce50c" controls="true" loop="true" autoplay="true" muted width="300"></video>
+<video src="https://github.com/user-attachments/assets/0eeefd1f-b22f-45c2-ab16-bc9c953ce50c" controls="true" loop="true" autoplay="true" muted width="500"></video>
 <!-- https://github.com/user-attachments/assets/0eeefd1f-b22f-45c2-ab16-bc9c953ce50c -->
 
 - 画像空間でGabor noiseを生成できるコードです。
@@ -144,11 +152,13 @@
 
 **android code learning app code**
 
+<!-- -------------------------------------------------------- -->
 ***
 
 ## Awards
 - 2022 DeNA オータムハッカソン 優勝
 
+<!-- -------------------------------------------------------- -->
 ***
 
 ## Misc.
