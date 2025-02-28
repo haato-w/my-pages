@@ -38,7 +38,7 @@
 <img src="imgs/PFN_logo.png" width="100px"/>
 
 - R&Dサマーインターン、パートタイムエンジニア
-- 4D Gaussian splatting web viewerの開発をしました。<a href="https://tech.preferred.jp/ja/blog/4d-gaussian-splatting-web-viewer/" target="_blank">成果ブログ</a>を公開しています。
+- 4D Gaussian splatting web viewerの開発をしました。成果を<a href="https://tech.preferred.jp/ja/blog/4d-gaussian-splatting-web-viewer/" target="_blank">**テックブログ**</a>として公開しています。
 
 **株式会社松尾研究所**
 
