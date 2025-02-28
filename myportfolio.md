@@ -98,7 +98,7 @@
 <video src="https://github.com/user-attachments/assets/a12588de-e853-421a-a99f-04d1af530765" controls="true" loop="true" autoplay="true" muted width="300"></video>
 <!-- https://github.com/user-attachments/assets/a12588de-e853-421a-a99f-04d1af530765 -->
 
-- 流体シミュレーションの1種であるStable fluidsをCで実装しました。OpenMPを用いてSIMD並列化とスレッド並列化を行いました。
+- 流体シミュレーションの1種であるStable fluidsをC++で実装しました。OpenMPを用いてSIMD並列化とスレッド並列化を行いました。
 - Poisson方程式はJacobi法で計算しています。
 - 元々流体シミューレーションに興味があったのでキャッチアップの最初のステップとして丁度良いと思い始めました。
 - 書籍「GPU Gems」の38章「GPU上での高速な流体力学シミュレーション」が分かりやすかったです。
