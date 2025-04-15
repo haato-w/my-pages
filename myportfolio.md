@@ -67,6 +67,9 @@
 
 <!-- -------------------------------------------------------- -->
 
+### Fractal visualizer
+急にやってみたくなったので、Julia集合とMadelbrot集合をレンダリングするコードを書きました。
+
 ### Making Visual hull mesh from mask images and camera params
 
 <video src="https://github.com/user-attachments/assets/37b00ca7-bea7-425f-9018-5901d05bca99" controls="true" loop="true" autoplay="true" muted width="600"></video>
