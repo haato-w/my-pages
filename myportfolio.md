@@ -28,7 +28,7 @@
 - Proceedings of the Eurographics 2025 Short Papers, 2025, Eurographics Association
 - 3D Gaussian splattingで高周波を持ったテクスチャ（細かいチェック柄など）を再構成しようとすると、極めて多くのGaussian primitiveを組み合わせて表現することになり、効率が良くないです。そこで、Procedural texture synthesisの技術であるGabor noiseに着想を受けて、Gaussian primitiveをGabor kernelに置き換えることでより小さなデータ数で高周波テクスチャを表現することを実現しました。
 - 3D空間においてGabor kernelをfittingすることが可能であることを示したこともcontributionの一つとなると思います。
-- <a href="https://haato-w.github.io/3d-gabor-splatting-project-page/" target="_blank">プロジェクトページ</a>と<a href="https://github.com/haato-w/3d-gabor-splatting"  target="_blank">コード</a>、<a href=""  target="_blank">データセット</a>を公開しています。
+- <a href="https://haato-w.github.io/3d-gabor-splatting-project-page/" target="_blank">プロジェクトページ</a>と<a href="https://github.com/haato-w/3d-gabor-splatting"  target="_blank">コード</a>、<a href="https://drive.google.com/drive/u/2/folders/1M3ZDIQ8cZT3FvqdsX4tDxE0_qLRX8F_9"  target="_blank">データセット</a>を公開しています。
 
 **Exploring User’s Line of Sight And Word Gesture Text Entry Techniques in Virtual Reality**
 - Haato Watanabe, Ryo Hatano, Hiroyuki Nishiyama<br>
