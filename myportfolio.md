@@ -79,9 +79,9 @@
 ### Fractal visualizer
 
 <video src="https://github.com/user-attachments/assets/473ecf52-27a5-4653-b347-ff8ec83f1de2" controls="true" loop="true" autoplay="true" muted width="600"></video>
-https://github.com/user-attachments/assets/473ecf52-27a5-4653-b347-ff8ec83f1de2
+<!-- https://github.com/user-attachments/assets/473ecf52-27a5-4653-b347-ff8ec83f1de2 -->
 <video src="https://github.com/user-attachments/assets/32deed89-46c9-4d9b-87b2-d29ce2d52388" controls="true" loop="true" autoplay="true" muted width="600"></video>
-https://github.com/user-attachments/assets/32deed89-46c9-4d9b-87b2-d29ce2d52388
+<!-- https://github.com/user-attachments/assets/32deed89-46c9-4d9b-87b2-d29ce2d52388 -->
 
 急にやってみたくなったので、Julia集合とMadelbrot集合をレンダリングするコードを書いてみました。
 
