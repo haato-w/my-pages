@@ -34,6 +34,7 @@
 - Haato Watanabe, Ryo Hatano, Hiroyuki Nishiyama<br>
 - Proceedings of the Joint Symposium of The Twenty-Ninth International Symposium on Artificial Life and Robotics (AROB 29th 2024)<br>
 - VR空間において、目線で英字キーボード入力を行うシステムの提案、評価を行いました。
+- <a href="https://drive.google.com/file/d/11-SGs5FusRnd8o9wwPwxLBVP1743jloc/view?usp=sharing" target="_blank">論文</a>を公開しています。
 
 <!-- -------------------------------------------------------- -->
 ***
