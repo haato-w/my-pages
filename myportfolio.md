@@ -143,8 +143,8 @@ Positional Encodingあり (3,000 iterations)
 
 ### 3D Gabor Splatting
 
-<video src="" controls="true" loop="true" autoplay="true" muted width="512"></video>
-
+<video src="https://github.com/user-attachments/assets/843e8ec3-775b-4f0b-9f1a-44526e8cca3b" controls="true" loop="true" autoplay="true" muted width="512"></video>
+<!-- https://github.com/user-attachments/assets/843e8ec3-775b-4f0b-9f1a-44526e8cca3b -->
 
 - 研究プロジェクト[3D Gabor Splatting](#3d_gabor_splatting)で2D Gaussian splattingのコードをベースとし、拡張したGabor kernelをfittingするシステムを開発しました。
 - コア部分はCUDA differentiable rasterizerを改造しました。
