@@ -85,11 +85,11 @@ NeRFの学習を画像空間のみで行うコードです。3次元再構築で
 
 Ground Truth画像
 <div><img src="imgs/nerf_image_space/processed_gt_image.png" alt="gt_image" width="512"/></div>
-
+<br>
 Positional Encoding無し (10,000 iterations)
 <div><img src="imgs/nerf_image_space/final_rendered_output_image_512x512_10000iter_non_pos_enc.png" alt="without_pos_encoding" width="512"/></div>
-高周波成分を表現できていません。
-
+高周波成分を表現できていません。<br>
+<br>
 Positional Encodingあり (3,000 iterations)
 <div><img src="imgs/nerf_image_space/final_rendered_output_image_3000.png" alt="with_pos_encoding" width="512"/></div>
 高周波成分を表現できています。
