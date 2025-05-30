@@ -19,9 +19,13 @@
   <dt>Comming Soon.</dt>
 </dl> -->
 
-**Comming Soon.**
+<!-- **Comming Soon.** -->
 
 <a id="3d_gabor_splatting"></a>
+
+**Gabor Splatting: ガボールノイズを用いた高周波テクスチャの三次元再構築**
+- 渡辺羽亜人,東條建治,梅谷信行
+- 下記の論文「3D Gabor Splatting: Reconstruction of High-frequency Surface Texture using Gabor Noise」の日本語版が「MIRU2025」のオーラル発表と「電子情報通信学会,研究速報,分冊D,システム開発論文」に採択されました。
 
 **3D Gabor Splatting: Reconstruction of High-frequency Surface Texture using Gabor Noise**
 - Haato Watanabe, Kenji Tojo and Nobuyuki Umetani<br>
