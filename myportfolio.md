@@ -6,6 +6,7 @@
 
 - [Github](https://github.com/haato-w "Haato Watanabe Github home"){:target="_blank"}
 - [Wantedly](https://www.wantedly.com/id/haato_watanabe "Haato Watanabe Wantedly home"){:target="_blank"}
+- [LinkedIn](https://www.linkedin.com/in/haato-watanabe-3769961a7/ "Haato Watanabe linkedin home"){:target="_blank"}
 
 <!-- -------------------------------------------------------- -->
 ***
