@@ -24,7 +24,9 @@
 
 <a id="3d_gabor_splatting"></a>
 
-**Gabor Splatting: ガボールノイズを用いた高周波テクスチャの三次元再構築**
+**Comming Soon**
+
+**3D Gabor Splatting: ガボールノイズを用いた高周波テクスチャの三次元再構築**
 - 渡辺羽亜人,東條建治,梅谷信行
 - 下記の論文「3D Gabor Splatting: Reconstruction of High-frequency Surface Texture using Gabor Noise」の日本語版が「MIRU2025」のオーラル発表と「電子情報通信学会,研究速報,分冊D,システム開発論文」に採択されました。
 
@@ -83,21 +85,28 @@
 <!-- -------------------------------------------------------- -->
 
 ### NeRF in 2D Space
-<video src="https://github.com/user-attachments/assets/662f8d41-5ada-41bc-8c46-02aead7214c8" controls="true" loop="true" autoplay="true" muted width="512"></video>
+<video src="https://github.com/user-attachments/assets/662f8d41-5ada-41bc-8c46-02aead7214c8" controls="true" loop="true" autoplay="true" muted width="256"></video>
 <!-- https://github.com/user-attachments/assets/662f8d41-5ada-41bc-8c46-02aead7214c8 -->
 
 NeRFの学習を画像空間のみで行うコードです。3次元再構築ではないので実用性は無いですが、NeRFのpositional encodingがどれほどのものかを自分で確かめてみたくなり実装しました。想像以上にpositional encodingが有る場合と無い場合で差が出たので面白かったです。因みにpositional encodingをx軸、y軸のどちらかに絞ると高周波成分を表現したい方向を制限することもできました。つまり、縦方向(横方向)だけ綺麗に学習して直角方向はぼやかすことができます。
 
-Ground Truth画像
-<div><img src="imgs/nerf_image_space/processed_gt_image.png" alt="gt_image" width="512"/></div>
-<br>
-Positional Encoding無し (10,000 iterations)
-<div><img src="imgs/nerf_image_space/final_rendered_output_image_512x512_10000iter_non_pos_enc.png" alt="without_pos_encoding" width="512"/></div>
-高周波成分を表現できていません。<br>
-<br>
-Positional Encodingあり (3,000 iterations)
-<div><img src="imgs/nerf_image_space/final_rendered_output_image_3000.png" alt="with_pos_encoding" width="512"/></div>
-高周波成分を表現できています。
+<div align="center">
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+        Ground Truth画像
+        <div><img src="imgs/nerf_image_space/processed_gt_image.png" alt="gt_image" width="256"/></div>
+        <br>
+    </div>
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+        Positional Encoding無し (10,000 iterations)
+        <div><img src="imgs/nerf_image_space/final_rendered_output_image_512x512_10000iter_non_pos_enc.png" alt="without_pos_encoding" width="256"/></div>
+        高周波成分を表現できていません。
+    </div>
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+        Positional Encodingあり (3,000 iterations)
+        <div><img src="imgs/nerf_image_space/final_rendered_output_image_3000.png" alt="with_pos_encoding" width="256"/></div>
+        高周波成分を表現できています。
+    </div>
+</div>
 
 ### Fractal visualizer
 
