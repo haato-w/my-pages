@@ -85,8 +85,12 @@
 <!-- -------------------------------------------------------- -->
 
 ### NeRF in 2D Space
-学習の様子<br>
-<video src="https://github.com/user-attachments/assets/662f8d41-5ada-41bc-8c46-02aead7214c8" controls="true" loop="true" autoplay="true" muted width="256"></video>
+<div style="text-align: left;">
+  <div style="width: 256px; text-align: center;">
+    学習の様子<br>
+    <video src="https://github.com/user-attachments/assets/662f8d41-5ada-41bc-8c46-02aead7214c8" controls="true" loop="true" autoplay="true" muted width="256"></video>
+  </div>
+</div>
 <!-- https://github.com/user-attachments/assets/662f8d41-5ada-41bc-8c46-02aead7214c8 -->
 
 NeRFの学習を画像空間のみで行うコードです。3次元再構築ではないので実用性は無いですが、NeRFのpositional encodingがどれほどのものかを自分で確かめてみたくなり実装しました。想像以上にpositional encodingが有る場合と無い場合で差が出たので面白かったです。因みにpositional encodingをx軸、y軸のどちらかに絞ると高周波成分を表現したい方向を制限することもできました。つまり、縦方向(横方向)だけ綺麗に学習して直角方向はぼやかすことができます。
