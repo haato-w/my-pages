@@ -92,19 +92,19 @@
 NeRFの学習を画像空間のみで行うコードです。3次元再構築ではないので実用性は無いですが、NeRFのpositional encodingがどれほどのものかを自分で確かめてみたくなり実装しました。想像以上にpositional encodingが有る場合と無い場合で差が出たので面白かったです。因みにpositional encodingをx軸、y軸のどちらかに絞ると高周波成分を表現したい方向を制限することもできました。つまり、縦方向(横方向)だけ綺麗に学習して直角方向はぼやかすことができます。
 
 <div align="center">
-    <div style="display: inline-block; text-align: center; margin: 5px;">
+    <div style="display: inline-block; text-align: center; margin: 2px;">
         <br>
         Ground Truth画像
         <div><img src="imgs/nerf_image_space/processed_gt_image.png" alt="gt_image" width="256"/></div>
         <br>
     </div>
-    <div style="display: inline-block; text-align: center; margin: 5px;">
+    <div style="display: inline-block; text-align: center; margin: 2px;">
         Positional Encoding無し<br>
         (10,000 iterations)
         <div><img src="imgs/nerf_image_space/final_rendered_output_image_512x512_10000iter_non_pos_enc.png" alt="without_pos_encoding" width="256"/></div>
         高周波成分を表現できていません。
     </div>
-    <div style="display: inline-block; text-align: center; margin: 5px;">
+    <div style="display: inline-block; text-align: center; margin: 2px;">
         Positional Encodingあり<br>
         (3,000 iterations)
         <div><img src="imgs/nerf_image_space/final_rendered_output_image_3000.png" alt="with_pos_encoding" width="256"/></div>
