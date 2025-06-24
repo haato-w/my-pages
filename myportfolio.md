@@ -95,7 +95,7 @@
 
 NeRFの学習を画像空間のみで行うコードです。3次元再構築ではないので実用性は無いですが、NeRFのpositional encodingがどれほどのものかを自分で確かめてみたくなり実装しました。想像以上にpositional encodingが有る場合と無い場合で差が出たので面白かったです。因みにpositional encodingをx軸、y軸のどちらかに絞ると高周波成分を表現したい方向を制限することもできました。つまり、縦方向(横方向)だけ綺麗に学習して直角方向はぼやかすことができます。
 
-<div align="center">
+<div style="text-align: left;">
     <div style="display: inline-block; text-align: center; margin: 2px;">
         <br>
         Ground Truth画像
