@@ -29,6 +29,7 @@
 **3D Gabor Splatting: ガボールノイズを用いた高周波テクスチャの三次元再構築**
 - 渡辺羽亜人,東條建治,梅谷信行
 - 下記の論文「3D Gabor Splatting: Reconstruction of High-frequency Surface Texture using Gabor Noise」の日本語版が「MIRU2025」のオーラル発表と「電子情報通信学会,研究速報,分冊D,システム開発論文」に採択されました。
+-「MIRU2025」で<a href="https://cvim.ipsj.or.jp/MIRU2025/award.html#MIRU_Excellent_Paper_Awards:~:text=OS1A%2D01,%E7%A0%94%E7%A9%B6%E3%81%A7%E3%81%82%E3%82%8B%EF%BC%8E" target="_blank">優秀賞</a>と<a href="https://cvim.ipsj.or.jp/MIRU2025/award.html#MIRU_Excellent_Paper_Awards:~:text=MIRU%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%A8%E3%83%B3%E3%82%B9%E8%B3%9E-,OS1A%2D01,%E5%86%8D%E6%A7%8B%E7%AF%89%0A%E6%B8%A1%E8%BE%BA%E7%BE%BD%E4%BA%9C%E4%BA%BA%2C%20%E6%9D%B1%E6%A2%9D%E5%81%A5%E6%B2%BB%2C%20%E6%A2%85%E8%B0%B7%E4%BF%A1%E8%A1%8C%20(%E6%9D%B1%E5%A4%A7),-OS1B%2D02" target="_blank">オーディエンス賞</a>を受賞しました。
 
 **3D Gabor Splatting: Reconstruction of High-frequency Surface Texture using Gabor Noise**
 - Haato Watanabe, Kenji Tojo and Nobuyuki Umetani<br>
