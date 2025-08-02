@@ -49,8 +49,8 @@
 
 ## Experience
 
-**Reviewer (by invitation), Pacific Graphics 2025.**
-- 微分可能表現を用いた3D reconstruction分野のfull paperをレビューしました。
+<!-- **Reviewer (by invitation), Pacific Graphics 2025.**
+- 微分可能表現を用いた3D reconstruction分野のfull paperをレビューしました。 -->
 
 <a id="pfn_intern"></a>
 
