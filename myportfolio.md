@@ -29,6 +29,7 @@
 **3D Gabor Splatting: ガボールノイズを用いた高周波テクスチャの三次元再構築**
 - 渡辺羽亜人,東條建治,梅谷信行
 - 下記の論文「3D Gabor Splatting: Reconstruction of High-frequency Surface Texture using Gabor Noise」の日本語版が「MIRU2025」のオーラル発表と「電子情報通信学会,研究速報,分冊D,システム開発論文」に採択されました。
+- 「MIRU2025」で<a href="https://cvim.ipsj.or.jp/MIRU2025/award.html#MIRU_Excellent_Paper_Awards:~:text=OS1A%2D01,%E7%A0%94%E7%A9%B6%E3%81%A7%E3%81%82%E3%82%8B%EF%BC%8E" target="_blank">優秀賞（MIRU Excellent Paper Award）</a>と<a href="https://cvim.ipsj.or.jp/MIRU2025/award.html#MIRU_Excellent_Paper_Awards:~:text=MIRU%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%A8%E3%83%B3%E3%82%B9%E8%B3%9E-,OS1A%2D01,%E5%86%8D%E6%A7%8B%E7%AF%89%0A%E6%B8%A1%E8%BE%BA%E7%BE%BD%E4%BA%9C%E4%BA%BA%2C%20%E6%9D%B1%E6%A2%9D%E5%81%A5%E6%B2%BB%2C%20%E6%A2%85%E8%B0%B7%E4%BF%A1%E8%A1%8C%20(%E6%9D%B1%E5%A4%A7),-OS1B%2D02" target="_blank">オーディエンス賞（MIRU Audience Award）</a>を受賞しました。
 
 **3D Gabor Splatting: Reconstruction of High-frequency Surface Texture using Gabor Noise**
 - Haato Watanabe, Kenji Tojo and Nobuyuki Umetani<br>
@@ -48,8 +49,8 @@
 
 ## Experience
 
-**Reviewer (by invitation), Pacific Graphics 2025.**
-- 微分可能表現を用いた3D reconstruction分野のfull paperをレビューしました。
+<!-- **Reviewer (by invitation), Pacific Graphics 2025.**
+- 微分可能表現を用いた3D reconstruction分野のfull paperをレビューしました。 -->
 
 <a id="pfn_intern"></a>
 
@@ -87,6 +88,47 @@
 
 <!-- -------------------------------------------------------- -->
 
+<!-- ### Shell reimplementation
+勉強のためにでBash likeなshellをc言語で再実装しました。基本ライブラリは[自身で実装したもの](#c-standard-library-reimplementation)を用いました。
+以下の機能を再現しました。
+- **コマンド実行**: 外部コマンドの実行と PATH 解決
+- **ビルトインコマンド**: `echo`, `cd`, `pwd`, `export`, `unset`, `env`, `exit`
+- **パイプライン**: コマンド間のデータフロー (`|`)
+- **リダイレクション**: 入力/出力のファイルリダイレクト (`<`, `>`, `>>`)
+- **ヒアドキュメント**: 複数行入力 (`<<`)
+- **環境変数**: 変数の展開と管理 (`$VAR`)
+- **クォート処理**: シングル・ダブルクォート内の文字列処理
+- **シグナル処理**: `Ctrl+C`, `Ctrl+D`, `Ctrl+\`
+
+コマンドは子プロセスで実行するなどのBash内部の処理だけでなく、機能も改めて学べました。<br>
+[**実装を公開しています。**](url "github repository"){:target="_blank"} -->
+
+### MIRU 2025 優秀賞 & オーディエンス賞
+2025 MIRU（画像の認識・理解シンポジウム）[3D Gabor Splatting](#3d_gabor_splatting)の発表を行いました。
+
+<div style="text-align: left;">
+    <div style="display: inline-block; text-align: center; margin: 2px;">
+        プレゼンテーションの様子
+        <div><img src="imgs/miru_2025/miru_2025_presentation_1.jpg" alt="presentation_1" width="256px"/></div>
+    </div>
+    <div style="display: inline-block; text-align: center; margin: 2px;">
+        優秀賞受賞
+        <div><img src="imgs/miru_2025/miru_2025_excellent_paper_award.jpg" alt="excellent_paper_award" width="256px"/></div>
+    </div>
+    <div style="display: inline-block; text-align: center; margin: 2px;">
+        オーディエンス賞受賞
+        <div><img src="imgs/miru_2025/miru_2025_audience_award.jpg" alt="audience_award" width="256px"/></div>
+    </div>
+    <div style="display: inline-block; text-align: center; margin: 2px;">
+        賞状
+        <div><img src="imgs/miru_2025/honorable_certification.jpg" alt="honorable_certification" width="256px"/></div>
+    </div>
+</div>
+
+<a href="https://cvim.ipsj.or.jp/MIRU2025/award.html#MIRU_Excellent_Paper_Awards:~:text=OS1A%2D01,%E7%A0%94%E7%A9%B6%E3%81%A7%E3%81%82%E3%82%8B%EF%BC%8E" target="_blank">優秀賞（MIRU Excellent Paper Award）</a>と<a href="https://cvim.ipsj.or.jp/MIRU2025/award.html#MIRU_Excellent_Paper_Awards:~:text=MIRU%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%A8%E3%83%B3%E3%82%B9%E8%B3%9E-,OS1A%2D01,%E5%86%8D%E6%A7%8B%E7%AF%89%0A%E6%B8%A1%E8%BE%BA%E7%BE%BD%E4%BA%9C%E4%BA%BA%2C%20%E6%9D%B1%E6%A2%9D%E5%81%A5%E6%B2%BB%2C%20%E6%A2%85%E8%B0%B7%E4%BF%A1%E8%A1%8C%20(%E6%9D%B1%E5%A4%A7),-OS1B%2D02" target="_blank">オーディエンス賞（MIRU Audience Award）</a>を受賞しました。
+
+<!-- -------------------------------------------------------- -->
+
 ### NeRF in 2D Space
 <div style="text-align: left;">
   <div style="width: 256px; text-align: center;">
@@ -119,6 +161,8 @@ NeRFの学習を画像空間のみで行うコードです。3次元再構築で
     </div>
 </div>
 
+<!-- -------------------------------------------------------- -->
+
 ### Fractal visualizer
 
 <video src="https://github.com/user-attachments/assets/473ecf52-27a5-4653-b347-ff8ec83f1de2" controls="true" loop="true" autoplay="true" muted width="600"></video>
@@ -127,6 +171,8 @@ NeRFの学習を画像空間のみで行うコードです。3次元再構築で
 <!-- https://github.com/user-attachments/assets/32deed89-46c9-4d9b-87b2-d29ce2d52388 -->
 
 急にやってみたくなったので、Julia集合とMadelbrot集合をレンダリングするコードを書いてみました。
+
+<!-- -------------------------------------------------------- -->
 
 ### Making Visual hull mesh from mask images and camera params
 
@@ -328,6 +374,8 @@ NeRFの学習を画像空間のみで行うコードです。3次元再構築で
 ***
 
 ## Awards
+- 2025 MIRU（画像の認識・理解シンポジウム）
+    - <a href="https://cvim.ipsj.or.jp/MIRU2025/award.html#MIRU_Excellent_Paper_Awards:~:text=OS1A%2D01,%E7%A0%94%E7%A9%B6%E3%81%A7%E3%81%82%E3%82%8B%EF%BC%8E" target="_blank">優秀賞（MIRU Excellent Paper Award）</a>と<a href="https://cvim.ipsj.or.jp/MIRU2025/award.html#MIRU_Excellent_Paper_Awards:~:text=MIRU%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%A8%E3%83%B3%E3%82%B9%E8%B3%9E-,OS1A%2D01,%E5%86%8D%E6%A7%8B%E7%AF%89%0A%E6%B8%A1%E8%BE%BA%E7%BE%BD%E4%BA%9C%E4%BA%BA%2C%20%E6%9D%B1%E6%A2%9D%E5%81%A5%E6%B2%BB%2C%20%E6%A2%85%E8%B0%B7%E4%BF%A1%E8%A1%8C%20(%E6%9D%B1%E5%A4%A7),-OS1B%2D02" target="_blank">オーディエンス賞（MIRU Audience Award）</a>を受賞しました。
 - 2022 DeNA オータムハッカソン 優勝
     - 自身がリーダーを努めたチームで[サイクリスト用情報交換サイト](#dena_autum_hackathon)を作成しました。
 
