@@ -121,6 +121,8 @@
         優秀賞受賞
         <div><img src="imgs/miru_2025/miru_2025_excellent_paper_award_compressed.jpg" alt="excellent_paper_award" width="256px"/></div>
     </div>
+</div>
+<div style="text-align: left;">
     <div style="display: inline-block; text-align: center; margin: 2px;">
         オーディエンス賞受賞
         <div><img src="imgs/miru_2025/miru_2025_audience_award_compressed.jpg" alt="audience_award" width="256px"/></div>
