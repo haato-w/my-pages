@@ -115,19 +115,19 @@
 <div style="text-align: left;">
     <div style="display: inline-block; text-align: center; margin: 2px;">
         プレゼンテーションの様子
-        <div><img src="imgs/miru_2025/miru_2025_presentation_1.jpg" alt="presentation_1" width="256px"/></div>
+        <div><img src="imgs/miru_2025/miru_2025_presentation_1_compressed.jpg" alt="presentation_1" width="256px"/></div>
     </div>
     <div style="display: inline-block; text-align: center; margin: 2px;">
         優秀賞受賞
-        <div><img src="imgs/miru_2025/miru_2025_excellent_paper_award.jpg" alt="excellent_paper_award" width="256px"/></div>
+        <div><img src="imgs/miru_2025/miru_2025_excellent_paper_award_compressed.jpg" alt="excellent_paper_award" width="256px"/></div>
     </div>
     <div style="display: inline-block; text-align: center; margin: 2px;">
         オーディエンス賞受賞
-        <div><img src="imgs/miru_2025/miru_2025_audience_award.jpg" alt="audience_award" width="256px"/></div>
+        <div><img src="imgs/miru_2025/miru_2025_audience_award_compressed.jpg" alt="audience_award" width="256px"/></div>
     </div>
     <div style="display: inline-block; text-align: center; margin: 2px;">
         賞状
-        <div><img src="imgs/miru_2025/honorable_certification.jpg" alt="honorable_certification" width="256px"/></div>
+        <div><img src="imgs/miru_2025/honorable_certification_compressed.jpg" alt="honorable_certification" width="256px"/></div>
     </div>
 </div>
 
