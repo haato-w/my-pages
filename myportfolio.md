@@ -127,7 +127,7 @@
     </div>
     <div style="display: inline-block; text-align: center; margin: 2px;">
         賞状
-        <div><img src="imgs/miru_2025/honorable_certification_compressed.jpg" alt="honorable_certification" width="256px"/></div>
+        <div><img src="imgs/miru_2025/miru_2025_honorable_certification_compressed.jpg" alt="honorable_certification" width="256px"/></div>
     </div>
 </div>
 
