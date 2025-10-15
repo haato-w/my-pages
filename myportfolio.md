@@ -92,7 +92,7 @@
 
 <!-- -------------------------------------------------------- -->
 
-<!-- ### Shell reimplementation
+### Shell reimplementation
 勉強のためにでBash likeなshellをc言語で再実装しました。基本ライブラリは[自身で実装したもの](#c-standard-library-reimplementation)を用いました。
 以下の機能を再現しました。
 - **コマンド実行**: 外部コマンドの実行と PATH 解決
@@ -105,7 +105,7 @@
 - **シグナル処理**: `Ctrl+C`, `Ctrl+D`, `Ctrl+\`
 
 コマンドは子プロセスで実行するなどのBash内部の処理だけでなく、機能も改めて学べました。<br>
-[**実装を公開しています。**](url "github repository"){:target="_blank"} -->
+[**実装を公開しています。**](url "github repository"){:target="_blank"}
 
 <!-- -------------------------------------------------------- -->
 
