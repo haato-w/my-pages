@@ -22,9 +22,12 @@
 
 <!-- **Comming Soon.** -->
 
-<a id="3d_gabor_splatting"></a>
+**SketchRodGS: Sketch-based Extraction of Slender Geometries for Animating Gaussian Splatting Scenes**
+- Haato Watanabe, Nobuyuki Umetani
+- ACM, SIGGRAPH Asia 2025 Technical Communications (SA Technical Communications '25)
+- <a href="https://haato-w.github.io/sketch-rod-gs-project-page/" target="_blank">プロジェクトページ</a>と<a href="https://github.com/haato-w/sketch-rod-gs" target="_blank">コード</a>、<a href="https://drive.google.com/drive/folders/1QhOkshES3-ubzQtoMD1wOpd_6Vj45H0f?usp=sharing" target="_blank">データセット</a>を公開しています。
 
-**Comming Soon**
+<a id="3d_gabor_splatting"></a>
 
 **3D Gabor Splatting: ガボールノイズを用いた高周波テクスチャの三次元再構築**
 - 渡辺羽亜人,東條建治,梅谷信行
