@@ -88,6 +88,10 @@
 
 <!-- -------------------------------------------------------- -->
 
+<!-- ### SketchRodGS -->
+
+<!-- -------------------------------------------------------- -->
+
 <!-- ### Shell reimplementation
 勉強のためにでBash likeなshellをc言語で再実装しました。基本ライブラリは[自身で実装したもの](#c-standard-library-reimplementation)を用いました。
 以下の機能を再現しました。
@@ -102,6 +106,8 @@
 
 コマンドは子プロセスで実行するなどのBash内部の処理だけでなく、機能も改めて学べました。<br>
 [**実装を公開しています。**](url "github repository"){:target="_blank"} -->
+
+<!-- -------------------------------------------------------- -->
 
 ### MIRU 2025 優秀賞 & オーディエンス賞
 2025 MIRU（画像の認識・理解シンポジウム）[3D Gabor Splatting](#3d_gabor_splatting)の発表を行いました。
@@ -266,7 +272,7 @@ NeRFの学習を画像空間のみで行うコードです。3次元再構築で
 ### 視線によるキーボード入力アプリ
 
 <div align="center">
-<img src="imgs/eye_gesture_playing_situation.png" width="400px"/>
+<img src="imgs/eye_gesture_playing_situation.jpg" width="400px"/>
 <video src="https://github.com/user-attachments/assets/b8325822-dc42-422c-8833-4242fbcbc9ca" controls="true" loop="true" autoplay="true" muted width="400"></video>
 </div>
 <!-- https://github.com/user-attachments/assets/b8325822-dc42-422c-8833-4242fbcbc9ca -->
