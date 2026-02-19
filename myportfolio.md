@@ -114,11 +114,11 @@ SIGGRAPH Asia 2025で[SketchRodGS](#sketchrodgs)の発表を行いました。
 <div style="text-align: left;">
     <div style="display: inline-block; text-align: center; margin: 2px;">
         Best Communications Award 2
-        <div><img src="imgs/sa2025/" width="256px"/></div>
+        <div><img src="imgs/sa2025/sa2025_award_2_resized.jpg" width="256px"/></div>
     </div>
     <div style="display: inline-block; text-align: center; margin: 2px;">
         賞状&トロフィー
-        <div><img src="imgs/sa2025/" alt="honorable_certification" width="256px"/></div>
+        <div><img src="imgs/sa2025/sa2025_award_3.jpg" alt="honorable_certification" width="256px"/></div>
     </div>
 </div>
 
