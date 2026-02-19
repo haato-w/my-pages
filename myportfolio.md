@@ -97,6 +97,10 @@
 
 <!-- -------------------------------------------------------- -->
 
+### Presentation in Huawei HeadQuarters
+深圳にあるHuaweiの本社で現地のCGチームに自身の研究についてプレゼンテーションを行いました。
+（写真取れなかった...）
+
 ### SIGGRAPH Asia 2025 Best Communications Award
 SIGGRAPH Asia 2025で[SketchRodGS](#sketchrodgs)の発表を行いました。
 2025 MIRU（画像の認識・理解シンポジウム）[3D Gabor Splatting](#3d_gabor_splatting)の発表を行いました。
