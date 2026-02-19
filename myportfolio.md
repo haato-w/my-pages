@@ -436,6 +436,9 @@ NeRFの学習を画像空間のみで行うコードです。3次元再構築で
 ***
 
 ## Awards
+- SIGGRAPH Asia 2025
+    - <a href="https://asia.siggraph.org/2025/program/award-winners/#:~:text=Best%20Communications%20Awards,Watanabe%2C%20Nobuyuki%20Umetani" target="_blank">Best Communications Award (Best short paper award)</a>を受賞しました。
+
 - 2025 MIRU（画像の認識・理解シンポジウム）
     - <a href="https://cvim.ipsj.or.jp/MIRU2025/award.html#MIRU_Excellent_Paper_Awards:~:text=OS1A%2D01,%E7%A0%94%E7%A9%B6%E3%81%A7%E3%81%82%E3%82%8B%EF%BC%8E" target="_blank">優秀賞（MIRU Excellent Paper Award）</a>と<a href="https://cvim.ipsj.or.jp/MIRU2025/award.html#MIRU_Excellent_Paper_Awards:~:text=MIRU%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%A8%E3%83%B3%E3%82%B9%E8%B3%9E-,OS1A%2D01,%E5%86%8D%E6%A7%8B%E7%AF%89%0A%E6%B8%A1%E8%BE%BA%E7%BE%BD%E4%BA%9C%E4%BA%BA%2C%20%E6%9D%B1%E6%A2%9D%E5%81%A5%E6%B2%BB%2C%20%E6%A2%85%E8%B0%B7%E4%BF%A1%E8%A1%8C%20(%E6%9D%B1%E5%A4%A7),-OS1B%2D02" target="_blank">オーディエンス賞（MIRU Audience Award）</a>を受賞しました。
 - 2022 DeNA オータムハッカソン 優勝
