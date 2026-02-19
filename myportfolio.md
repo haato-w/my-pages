@@ -101,6 +101,8 @@
 深圳にあるHuaweiの本社で現地のCGチームに自身の研究についてプレゼンテーションを行いました。
 （写真取れなかった...）
 
+<!-- -------------------------------------------------------- -->
+
 ### SIGGRAPH Asia 2025 Best Communications Award
 SIGGRAPH Asia 2025で[SketchRodGS](#sketchrodgs)の発表を行いました。
 
@@ -126,6 +128,11 @@ SIGGRAPH Asia 2025で[SketchRodGS](#sketchrodgs)の発表を行いました。
 </div>
 
 <a href="https://asia.siggraph.org/2025/program/award-winners/#:~:text=Best%20Communications%20Awards,Watanabe%2C%20Nobuyuki%20Umetani" target="_blank">Best Communications Award (Best short paper award)</a>を受賞しました。
+
+<!-- -------------------------------------------------------- -->
+
+<!-- ### Presentation in Huawei
+Huaweiで本社のCTOに対して自身の研究についてプレゼンテーションを行いました。 -->
 
 <!-- -------------------------------------------------------- -->
 
