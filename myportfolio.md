@@ -98,12 +98,14 @@
 <!-- -------------------------------------------------------- -->
 
 ### Presentation in Huawei HeadQuarters
+2025年12月<br>
 深圳にあるHuaweiの本社で現地のCGチームに自身の研究についてプレゼンテーションを行いました。
 （写真取れなかった...）
 
 <!-- -------------------------------------------------------- -->
 
 ### SIGGRAPH Asia 2025 Best Communications Award
+2025年12月<br>
 SIGGRAPH Asia 2025で[SketchRodGS](#sketchrodgs)の発表を行いました。
 
 <div style="text-align: left;">
@@ -137,6 +139,7 @@ Huaweiで本社のCTOに対して自身の研究についてプレゼンテー�
 <!-- -------------------------------------------------------- -->
 
 ### SketchRodGS
+2025年12月<br>
 **Please click and watch the demo video.**<br>
 [![Demo Video](imgs/youtube_thumbnail_with_icon.jpg)](https://youtu.be/eaK0p0nU47g?si=54fC0_AL-OYZkHY3)
 
@@ -147,6 +150,7 @@ Huaweiで本社のCTOに対して自身の研究についてプレゼンテー�
 <!-- -------------------------------------------------------- -->
 
 ### Shell reimplementation
+2025年10月<br>
 勉強のためにでBash likeなshellをc言語で再実装しました。基本ライブラリは[自身で実装したもの](#c-standard-library-reimplementation)を用いました。
 以下の機能を再現しました。
 - **コマンド実行**: 外部コマンドの実行と PATH 解決
@@ -164,6 +168,7 @@ Huaweiで本社のCTOに対して自身の研究についてプレゼンテー�
 <!-- -------------------------------------------------------- -->
 
 ### MIRU 2025 優秀賞 & オーディエンス賞
+2025年8月<br>
 2025 MIRU（画像の認識・理解シンポジウム）[3D Gabor Splatting](#3d_gabor_splatting)の発表を行いました。
 
 <div style="text-align: left;">
@@ -192,6 +197,7 @@ Huaweiで本社のCTOに対して自身の研究についてプレゼンテー�
 <!-- -------------------------------------------------------- -->
 
 ### NeRF in 2D Space
+2025年7月<br>
 <div style="text-align: left;">
   <div style="width: 256px; text-align: center;">
     学習の様子<br>
@@ -226,6 +232,7 @@ NeRFの学習を画像空間のみで行うコードです。3次元再構築で
 <!-- -------------------------------------------------------- -->
 
 ### Fractal visualizer
+2025年7月<br>
 
 <video src="https://github.com/user-attachments/assets/473ecf52-27a5-4653-b347-ff8ec83f1de2" controls="true" loop="true" autoplay="true" muted width="600"></video>
 <!-- https://github.com/user-attachments/assets/473ecf52-27a5-4653-b347-ff8ec83f1de2 -->
@@ -250,6 +257,8 @@ NeRFの学習を画像空間のみで行うコードです。3次元再構築で
 
 ### Nerf synthetic data creation code using Mitsuba renderer
 
+2025年5月<br>
+
 <img src="imgs/mitsuba_yuksel_hair_curly.png" width="400px"/>
 
 - Mitsuba rendererを使用してNeRFのsyntheticデータを撮影する環境を作成しました。
@@ -264,6 +273,8 @@ NeRFの学習を画像空間のみで行うコードです。3次元再構築で
 
 ### Stable fluids implementation
 
+2025年1月<br>
+
 <video src="https://github.com/user-attachments/assets/a12588de-e853-421a-a99f-04d1af530765" controls="true" loop="true" autoplay="true" muted width="300"></video>
 <!-- https://github.com/user-attachments/assets/a12588de-e853-421a-a99f-04d1af530765 -->
 
@@ -276,6 +287,8 @@ NeRFの学習を画像空間のみで行うコードです。3次元再構築で
 
 ### 3D Gabor Splatting
 
+2025年1月<br>
+
 <video src="https://github.com/user-attachments/assets/843e8ec3-775b-4f0b-9f1a-44526e8cca3b" controls="true" loop="true" autoplay="true" muted width="512"></video>
 <!-- https://github.com/user-attachments/assets/843e8ec3-775b-4f0b-9f1a-44526e8cca3b -->
 
@@ -287,6 +300,8 @@ NeRFの学習を画像空間のみで行うコードです。3次元再構築で
 <!-- -------------------------------------------------------- -->
 
 ### Gabor noise rasterizer in image space using pytorch
+
+2024年9月<br>
 
 <div align="center">
 <img src="imgs/gabor_noise_figure.png" width="400px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -306,6 +321,8 @@ NeRFの学習を画像空間のみで行うコードです。3次元再構築で
 
 ### 4D Gaussian Splatting Web Viewer
 
+2024年9月<br>
+
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/dPzrhA_5MDw?si=KoVLpvjnd7yvuY5a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 <iframe width="450" height="300" src="https://www.youtube.com/embed/uEdum66-xPc?si=eAeCWp-txWZRwIPq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- https://www.youtube.com/embed/<video_id>?autoplay=1&mute=1&playsinline=1&loop=1&playlist=<video_id> -->
@@ -319,6 +336,9 @@ NeRFの学習を画像空間のみで行うコードです。3次元再構築で
 <!-- -------------------------------------------------------- -->
 
 ### C Standard Library reimplementation
+
+2024年3月<br>
+
 - 低レイヤのコードに慣れようと思い、C標準ライブラリを再実装しました。
 - 実装難易度は全く高くないですが、自分で書くと細かい仕様を学べるので楽しかったです。
 - [**実装を公開しています。**](https://github.com/haato-w/my-c-standard-library "github repository"){:target="_blank"}
@@ -326,6 +346,8 @@ NeRFの学習を画像空間のみで行うコードです。3次元再構築で
 <!-- -------------------------------------------------------- -->
 
 ### 視線によるキーボード入力アプリ
+
+2024年1月<br>
 
 <div align="center">
 <img src="imgs/eye_gesture_playing_situation.jpg" width="400px"/>
