@@ -104,11 +104,11 @@ SIGGRAPH Asia 2025で[SketchRodGS](#sketchrodgs)の発表を行いました。
 <div style="text-align: left;">
     <div style="display: inline-block; text-align: center; margin: 2px;">
         プレゼンテーションの様子
-        <div><img src="imgs/sa2025/" alt="presentation_1" width="256px"/></div>
+        <div><img src="imgs/sa2025/sa2025_presentation_resized.jpg" alt="presentation_1" width="256px"/></div>
     </div>
     <div style="display: inline-block; text-align: center; margin: 2px;">
-        Best Communications Award 1
-        <div><img src="imgs/sa2025/sa2025_award_1.jpg" alt="excellent_paper_award" width="256px"/></div>
+        賞状&トロフィー
+        <div><img src="imgs/sa2025/sa2025_award_3_resized.jpg" alt="honorable_certification" width="256px"/></div>
     </div>
 </div>
 <div style="text-align: left;">
@@ -117,12 +117,12 @@ SIGGRAPH Asia 2025で[SketchRodGS](#sketchrodgs)の発表を行いました。
         <div><img src="imgs/sa2025/sa2025_award_2_resized.jpg" width="256px"/></div>
     </div>
     <div style="display: inline-block; text-align: center; margin: 2px;">
-        賞状&トロフィー
-        <div><img src="imgs/sa2025/sa2025_award_3_resized.jpg" alt="honorable_certification" width="256px"/></div>
+        Best Communications Award 1
+        <div><img src="imgs/sa2025/sa2025_award_1.jpg" alt="excellent_paper_award" width="256px"/></div>
     </div>
 </div>
 
-<a href="https://cvim.ipsj.or.jp/MIRU2025/award.html#MIRU_Excellent_Paper_Awards:~:text=OS1A%2D01,%E7%A0%94%E7%A9%B6%E3%81%A7%E3%81%82%E3%82%8B%EF%BC%8E" target="_blank">優秀賞（MIRU Excellent Paper Award）</a>と<a href="https://cvim.ipsj.or.jp/MIRU2025/award.html#MIRU_Excellent_Paper_Awards:~:text=MIRU%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%A8%E3%83%B3%E3%82%B9%E8%B3%9E-,OS1A%2D01,%E5%86%8D%E6%A7%8B%E7%AF%89%0A%E6%B8%A1%E8%BE%BA%E7%BE%BD%E4%BA%9C%E4%BA%BA%2C%20%E6%9D%B1%E6%A2%9D%E5%81%A5%E6%B2%BB%2C%20%E6%A2%85%E8%B0%B7%E4%BF%A1%E8%A1%8C%20(%E6%9D%B1%E5%A4%A7),-OS1B%2D02" target="_blank">オーディエンス賞（MIRU Audience Award）</a>を受賞しました。
+<a href="https://asia.siggraph.org/2025/program/award-winners/#:~:text=Best%20Communications%20Awards,Watanabe%2C%20Nobuyuki%20Umetani" target="_blank">Best Communications Award (Best short paper award)</a>を受賞しました。
 
 <!-- -------------------------------------------------------- -->
 
