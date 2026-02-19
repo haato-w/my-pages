@@ -22,9 +22,12 @@
 
 <!-- **Comming Soon.** -->
 
+<a id="sketchrodgs"></a>
+
 **SketchRodGS: Sketch-based Extraction of Slender Geometries for Animating Gaussian Splatting Scenes**
 - Haato Watanabe, Nobuyuki Umetani
-- ACM, SIGGRAPH Asia 2025 Technical Communications (SA Technical Communications '25)
+- ACM, SIGGRAPH Asia 2025 Technical Communications (Short paper)
+- <a href="https://asia.siggraph.org/2025/program/award-winners/#:~:text=Best%20Communications%20Awards,Watanabe%2C%20Nobuyuki%20Umetani" target="_blank">Best Communications Award</a> (Best short paper award)を受賞しました。
 - <a href="https://haato-w.github.io/sketch-rod-gs-project-page/" target="_blank">プロジェクトページ</a>と<a href="https://github.com/haato-w/sketch-rod-gs" target="_blank">コード</a>、<a href="https://drive.google.com/drive/folders/1QhOkshES3-ubzQtoMD1wOpd_6Vj45H0f?usp=sharing" target="_blank">データセット</a>を公開しています。
 
 <a id="3d_gabor_splatting"></a>
@@ -52,6 +55,9 @@
 
 ## Experience
 
+**Huawei Tokyo Research Center**
+- 2025年12月からCGチームでリサーチインターンをしています。
+
 **Reviewer (by invitation), Pacific Graphics 2025.**
 - 微分可能表現を用いた3D reconstruction分野のfull paperをレビューしました。
 
@@ -61,26 +67,26 @@
 
 <img src="imgs/PFN_logo.png" width="100px"/>
 
-- R&Dサマーインターン、パートタイムエンジニア
+- 2024年8月~2024年12月 R&Dサマーインターン、パートタイムエンジニア
 - 4D Gaussian splatting web viewerの開発をしました。成果を<a href="https://tech.preferred.jp/ja/blog/4d-gaussian-splatting-web-viewer/" target="_blank">**テックブログ**</a>として公開しています。
 
 **株式会社松尾研究所**
 
 <img src="imgs/matsuo_logo.jpeg" width="100px"/>
 
-- エンジニア インターン
+- 2024年2月~2024年7月 エンジニア インターン
 - LLMを用いた業務効率化システムの共同研究プロジェクトに参加しました。
 
 **株式会社プレイド**
 
 <img src="imgs/plaid_logo.png" width="100px"/>
 
-- エンジニア インターン
+- 2022年3月~2023年1月 エンジニア インターン
 - webプロダクトの開発に参加していました。バックエンド、フロントエンド両方の開発を担当していました。
 - キーワード：TypeScript, Express, Vue, Mongo, circleci, e2e, svelte, CDN
 
 **株式会社Alice**
-- エンジニア（業務委託）
+- 2021年7月~2022年1月 エンジニア（業務委託）
 - Edge AIの画像認識システムを開発をしました。既存プロダクトの調査、既存技術のサーベイ・検証、論文実装、システム設計、コーディングを一貫して個人プロジェクトとして行いました。
 - キーワード：Keras, Tensorflow, ONNX, TensorRT, Jupyter, Git, Docker, Linux
 
@@ -91,7 +97,42 @@
 
 <!-- -------------------------------------------------------- -->
 
-<!-- ### SketchRodGS -->
+### SIGGRAPH Asia 2025 Best Communications Award
+SIGGRAPH Asia 2025で[SketchRodGS](#sketchrodgs)の発表を行いました。
+2025 MIRU（画像の認識・理解シンポジウム）[3D Gabor Splatting](#3d_gabor_splatting)の発表を行いました。
+
+<div style="text-align: left;">
+    <div style="display: inline-block; text-align: center; margin: 2px;">
+        プレゼンテーションの様子
+        <div><img src="imgs/sa2025/" alt="presentation_1" width="256px"/></div>
+    </div>
+    <div style="display: inline-block; text-align: center; margin: 2px;">
+        Best Communications Award 1
+        <div><img src="imgs/sa2025/sa2025_award_1.jpg" alt="excellent_paper_award" width="256px"/></div>
+    </div>
+</div>
+<div style="text-align: left;">
+    <div style="display: inline-block; text-align: center; margin: 2px;">
+        Best Communications Award 2
+        <div><img src="imgs/sa2025/" width="256px"/></div>
+    </div>
+    <div style="display: inline-block; text-align: center; margin: 2px;">
+        賞状&トロフィー
+        <div><img src="imgs/sa2025/" alt="honorable_certification" width="256px"/></div>
+    </div>
+</div>
+
+<a href="https://cvim.ipsj.or.jp/MIRU2025/award.html#MIRU_Excellent_Paper_Awards:~:text=OS1A%2D01,%E7%A0%94%E7%A9%B6%E3%81%A7%E3%81%82%E3%82%8B%EF%BC%8E" target="_blank">優秀賞（MIRU Excellent Paper Award）</a>と<a href="https://cvim.ipsj.or.jp/MIRU2025/award.html#MIRU_Excellent_Paper_Awards:~:text=MIRU%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%A8%E3%83%B3%E3%82%B9%E8%B3%9E-,OS1A%2D01,%E5%86%8D%E6%A7%8B%E7%AF%89%0A%E6%B8%A1%E8%BE%BA%E7%BE%BD%E4%BA%9C%E4%BA%BA%2C%20%E6%9D%B1%E6%A2%9D%E5%81%A5%E6%B2%BB%2C%20%E6%A2%85%E8%B0%B7%E4%BF%A1%E8%A1%8C%20(%E6%9D%B1%E5%A4%A7),-OS1B%2D02" target="_blank">オーディエンス賞（MIRU Audience Award）</a>を受賞しました。
+
+<!-- -------------------------------------------------------- -->
+
+### SketchRodGS
+**Please click and watch the demo video.**<br>
+[![Demo Video](imgs/youtube_thumbnail_with_icon.jpg)](https://youtu.be/eaK0p0nU47g?si=54fC0_AL-OYZkHY3)
+
+- 研究プロジェクト[SketchRodGS](#sketchrodgs)でGaussian splattingシーン中の細長いオブジェクトに対してスケッチからリアルタイムにポリラインを構築しelastic rod simulationを適用できるシステムを開発しました。
+- Viewer部分はQt(pyside), レンダリング部分はINRIAのGSレンダリングコード（ちょっと改造した）, コア部分はcppとCUDAで実装しました。シミュレーション部分はDelFEMというライブラリを使用しました。
+- [**実装を公開しています。**](https://github.com/haato-w/sketch-rod-gs "github repository"){:target="_blank"}
 
 <!-- -------------------------------------------------------- -->
 
