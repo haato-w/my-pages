@@ -97,6 +97,14 @@
 
 <!-- -------------------------------------------------------- -->
 
+### 情報理工学系研究科 研究科長賞
+
+東京大学大学院 情報理工学系研究科 修士課程を卒業するにあたり研究科長賞を頂きました。
+
+Images coming soon.
+
+<!-- -------------------------------------------------------- -->
+
 ### Presentation in Huawei HeadQuarters
 2025年12月<br>
 深圳にあるHuaweiの本社で現地のCGチームに自身の研究についてプレゼンテーションを行いました。
@@ -458,6 +466,9 @@ NeRFの学習を画像空間のみで行うコードです。3次元再構築で
 ***
 
 ## Awards
+- 情報理工学系研究科 研究科長賞
+    - 東京大学大学院 情報理工学系研究科 修士課程を卒業するにあたり研究科長賞を頂きました。
+
 - SIGGRAPH Asia 2025
     - <a href="https://asia.siggraph.org/2025/program/award-winners/#:~:text=Best%20Communications%20Awards,Watanabe%2C%20Nobuyuki%20Umetani" target="_blank">Best Communications Award (Best short paper award)</a>を受賞しました。
 
