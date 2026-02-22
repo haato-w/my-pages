@@ -21,7 +21,8 @@
   <dt>Comming Soon.</dt>
 </dl> -->
 
-<!-- **Comming Soon.** -->
+**Accepted by CVPR 2026**
+- Details coming soon.
 
 <a id="sketchrodgs"></a>
 
