@@ -99,7 +99,7 @@
 
 ## Awards
 - 情報理工学系研究科 研究科長賞
-    - 東京大学大学院 情報理工学系研究科 修士課程を卒業するにあたり研究科長賞を頂きました。
+    - 東京大学大学院 情報理工学系研究科 修士課程を卒業するにあたり <a href="https://www.i.u-tokyo.ac.jp/news/topics/2026/202603252776_e.shtml" target="_blank">研究科長賞</a>を受賞しました。
 
 - SIGGRAPH Asia 2025
     - <a href="https://asia.siggraph.org/2025/program/award-winners/#:~:text=Best%20Communications%20Awards,Watanabe%2C%20Nobuyuki%20Umetani" target="_blank">Best Communications Award (Best short paper award)</a>を受賞しました。
@@ -120,9 +120,15 @@
 
 ### 情報理工学系研究科 研究科長賞
 
-東京大学大学院 情報理工学系研究科 修士課程を卒業するにあたり研究科長賞を頂きました。
+東京大学大学院 情報理工学系研究科 修士課程を卒業するにあたり<a href="https://www.i.u-tokyo.ac.jp/news/topics/2026/202603252776_e.shtml" target="_blank">研究科長賞</a>を頂きました。
 
-Images coming soon.
+<div style="text-align: left;">
+    <div style="display: inline-block; text-align: center; margin: 2px;">
+        プレゼンテーションの様子
+        <div><img src="imgs/deans_award/deans_award_resized.jpg" alt="presentation_1" width="256px"/></div>
+    </div>
+</div>
+
 
 <!-- -------------------------------------------------------- -->
 
