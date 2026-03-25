@@ -120,7 +120,7 @@
 
 ### 情報理工学系研究科 研究科長賞
 
-東京大学大学院 情報理工学系研究科 修士課程を卒業するにあたり<a href="https://www.i.u-tokyo.ac.jp/news/topics/2026/202603252776_e.shtml" target="_blank">研究科長賞</a>を頂きました。
+東京大学大学院 情報理工学系研究科 修士課程を卒業するにあたり<a href="https://www.i.u-tokyo.ac.jp/news/topics/2026/202603252776_e.shtml" target="_blank">研究科長賞</a>を受賞しました。
 
 <div style="text-align: left;">
     <div style="display: inline-block; text-align: center; margin: 2px;">
