@@ -21,8 +21,12 @@
   <dt>Comming Soon.</dt>
 </dl> -->
 
-**Accepted by CVPR 2026**
-- Details coming soon.
+<a id="neural_gabor"></a>
+
+**Neural Gabor Splatting: Enhanced Gaussian Splatting with Neural Gabor for High-frequency Surface Reconstruction**
+- Haato Watanabe, Nobuyuki Umetani
+- CVPR 2026 (accepted)
+- プロジェクトページとコードを公開予定です。
 
 <a id="sketchrodgs"></a>
 
@@ -119,7 +123,7 @@
 <!-- -------------------------------------------------------- -->
 
 ### 情報理工学系研究科 研究科長賞
-
+2026年3月<br>
 東京大学大学院 情報理工学系研究科 修士課程を卒業するにあたり<a href="https://www.i.u-tokyo.ac.jp/news/topics/2026/202603252776_e.shtml" target="_blank">研究科長賞</a>を受賞しました。
 
 <div style="text-align: left;">
@@ -129,6 +133,14 @@
     </div>
 </div>
 
+<!-- -------------------------------------------------------- -->
+### Neural Gabor Splatting: Enhanced Gaussian Splatting with Neural Gabor for High-frequency Surface Reconstruction
+2026年2月<br>
+
+- 研究プロジェクト[Neural Gabor Splatting](#neural_gabor)で2D Gaussian splattingのコードをベースとし、拡張したNeural Gabor kernelをfittingするシステムを開発しました。
+- Densificationの判定はFFTとInverse-FFTを用いて構築したfrequency-mapをback-projectionして行っています。
+- コア部分はCUDA differentiable rasterizerを改造しました。
+- **プロジェクトページと実装を公開予定です。**
 
 <!-- -------------------------------------------------------- -->
 
