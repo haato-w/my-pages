@@ -1,7 +1,12 @@
 # Haato Watanabe（渡辺 羽亜人）
 
+<span style="color:red;">
+    ※最新の研究・実績は<a href="https://haato-w.github.io/my-pages-en/myportfolio_en.html">英語ページ</a>に掲載しています。<br>
+    Please visit <a href="https://haato-w.github.io/my-pages-en/myportfolio_en.html">my English website</a> for the latest updates.
+</span>
+
 ## About
-所属：東京大学大学院 情報理工学系研究科 創造情報学専攻 梅谷研究室 修士2年　<br>
+所属：東京大学大学院 情報理工学系研究科 創造情報学専攻 梅谷研究室 修士卒業　<br>
 専門：コンピュータ・グラフィックス、特にコンテンツ制作支援とシミュレーションに興味があります。現在は3D Reconstructionの研究をしています。
 
 - [Github](https://github.com/haato-w "Haato Watanabe Github home"){:target="_blank"}
