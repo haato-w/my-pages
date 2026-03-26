@@ -109,6 +109,7 @@
 ## Awards
 - 情報理工学系研究科 研究科長賞
     - 東京大学大学院 情報理工学系研究科 修士課程を卒業するにあたり <a href="https://www.i.u-tokyo.ac.jp/news/topics/2026/202603252776_e.shtml" target="_blank">研究科長賞</a>を受賞しました。
+    - 安田講堂の学位授与式で修士代表として修了証を受け取りました。
 
 - SIGGRAPH Asia 2025
     - <a href="https://asia.siggraph.org/2025/program/award-winners/#:~:text=Best%20Communications%20Awards,Watanabe%2C%20Nobuyuki%20Umetani" target="_blank">Best Communications Award (Best short paper award)</a>を受賞しました。
@@ -131,10 +132,16 @@
 2026年3月<br>
 東京大学大学院 情報理工学系研究科 修士課程を卒業するにあたり<a href="https://www.i.u-tokyo.ac.jp/news/topics/2026/202603252776_e.shtml" target="_blank">研究科長賞</a>を受賞しました。
 
+加えて、安田講堂の学位授与式で修士代表として修了証を受け取りました。
+
 <div style="text-align: left;">
     <div style="display: inline-block; text-align: center; margin: 2px;">
-        プレゼンテーションの様子
-        <div><img src="imgs/deans_award/deans_award_resized.jpg" alt="presentation_1" width="256px"/></div>
+        研究科長賞
+        <div><img src="imgs/master_diploma_award/deans_award_resized.jpg" alt="deans_award" width="256px"/></div>
+    </div>
+    <div style="display: inline-block; text-align: center; margin: 2px;">
+        安田講堂で修了生代表
+        <div><img src="imgs/master_diploma_award/representative_resized.jpg" alt="representative" width="256px"/></div>
     </div>
 </div>
 
@@ -182,11 +189,12 @@ SIGGRAPH Asia 2025で[SketchRodGS](#sketchrodgs)の発表を行いました。
 </div>
 
 <a href="https://asia.siggraph.org/2025/program/award-winners/#:~:text=Best%20Communications%20Awards,Watanabe%2C%20Nobuyuki%20Umetani" target="_blank">Best Communications Award (Best short paper award)</a>を受賞しました。
+(授賞式にギリギリ間に合って良かった...)
 
 <!-- -------------------------------------------------------- -->
 
-<!-- ### Presentation in Huawei
-Huaweiで本社のCTOに対して自身の研究についてプレゼンテーションを行いました。 -->
+### Presentation in Huawei
+Huawei本社のCTOに対して自身の研究についてプレゼンテーションを行いました。
 
 <!-- -------------------------------------------------------- -->
 
