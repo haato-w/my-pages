@@ -1,8 +1,8 @@
 # Haato Watanabe（渡辺 羽亜人）
 
 <span style="color:red;">
-    ※最新の研究・実績は<a href="https://haato-w.github.io/my-pages-en/myportfolio_en.html">英語ページ</a>に掲載しています。<br>
-    Please visit <a href="https://haato-w.github.io/my-pages-en/myportfolio_en.html">my English website</a> for the latest updates.
+    ※最新の研究・実績は<a href="https://haatowatanabe.com/">英語ページ</a>に掲載しています。<br>
+    Please visit <a href="https://haatowatanabe.com/">my English website</a> for the latest updates.
 </span>
 
 ## About
